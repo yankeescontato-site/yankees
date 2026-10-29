@@ -39,9 +39,7 @@ const config: NextConfig = {
     return [
       { source: "/quem-somos", destination: "/quemsomos", permanent: true },
       { source: "/imoveis-prontos", destination: "/imoveis-venda", permanent: true },
-      // Ainda sem blog e favoritos no site novo: temporário até migrar os artigos.
-      { source: "/blog", destination: "/", permanent: false },
-      { source: "/artigo/:caminho*", destination: "/", permanent: false },
+      // Favoritos ainda não existe no site novo: temporário.
       { source: "/favoritos", destination: "/", permanent: false },
     ];
   },

@@ -29,14 +29,18 @@ jobs:
           # Configure em Settings > Variables quando o domínio for para o site novo.
           OAWEB_URL: ${{ vars.OAWEB_URL }}
         run: node scripts/importar-oaweb.mjs
+      - name: Importar blog
+        env:
+          OAWEB_URL: ${{ vars.OAWEB_URL }}
+        run: node scripts/importar-blog.mjs
       - name: Salvar se mudou
         run: |
-          if git diff --quiet -- data/imoveis.json; then
+          if git diff --quiet -- data/imoveis.json data/artigos.json; then
             echo "Nenhuma mudança nos imóveis."
             exit 0
           fi
           git config user.name "importador-imoveis"
           git config user.email "actions@users.noreply.github.com"
-          git add data/imoveis.json
-          git commit -m "Atualiza imóveis da OAWEB"
+          git add data/imoveis.json data/artigos.json
+          git commit -m "Atualiza imóveis e blog da OAWEB"
           git push

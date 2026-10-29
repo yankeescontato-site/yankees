@@ -11,6 +11,7 @@ const LINKS = [
   { href: "/imoveis-venda", nome: "Prontos" },
   { href: "/imoveis-aluguel-anual", nome: "Aluguel" },
   { href: "/quemsomos", nome: "A Yankees" },
+  { href: "/blog", nome: "Blog" },
   { href: "/contato", nome: "Contato" },
 ];
 

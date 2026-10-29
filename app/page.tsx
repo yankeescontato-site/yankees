@@ -1,10 +1,12 @@
 import Link from "next/link";
 import Busca from "@/components/Busca";
 import Card from "@/components/Card";
+import ArtigoCard from "@/components/ArtigoCard";
 import Depoimentos from "@/components/Depoimentos";
 import Trilho from "@/components/Trilho";
 import { Seta, Whats } from "@/components/Icones";
 import depoimentos from "@/data/depoimentos.json";
+import { recentes } from "@/lib/artigos";
 import { STATUS, destaques, foto, imoveis, linkWhats, porStatus, type Status } from "@/lib/imoveis";
 
 
@@ -163,6 +165,19 @@ export default function Home() {
             </div>
           </div>
           <div className="rv"><Depoimentos lista={depoimentos} /></div>
+        </div>
+      </section>
+
+      <section className="secao" id="blog">
+        <div className="wrap">
+          <div className="secao-cab rv">
+            <div>
+              <span className="eyebrow">Blog Yankees</span>
+              <h2 className="h2">Mercado imobiliário <b>de Itapema e região</b></h2>
+            </div>
+            <Link className="link-seta" href="/blog"><span>Todos os artigos</span><Seta /></Link>
+          </div>
+          <div className="grade-artigos rv">{recentes(3).map((a) => <ArtigoCard key={a.id} a={a} />)}</div>
         </div>
       </section>
 

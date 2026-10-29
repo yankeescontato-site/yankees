@@ -96,7 +96,7 @@ button, input, select { font: inherit; color: inherit; }
 
 @media (max-width: 1240px) {
   .header-in { gap: 12px; }
-  .nav a { padding: 8px 10px; font-size: 14px; }
+  .nav a { padding: 8px 8px; font-size: 14px; }
   .header-acoes .btn { padding: 0 16px; font-size: 14px; }
   .header-acoes .btn svg { display: none; }
 }
@@ -444,3 +444,100 @@ button, input, select { font: inherit; color: inherit; }
 
 /* nas faixas de imóveis do celular, setas menores sobre a foto (o texto fica abaixo dela) */
 @media (max-width: 620px) { .depo-seta.trilho-seta { width: 40px; height: 40px; bottom: auto; top: 110px; box-shadow: 0 6px 18px -6px rgba(0,0,0,.5); } .depo-seta.trilho-seta.ant { left: 6px; } .depo-seta.trilho-seta.prox { right: 6px; } }
+
+/* ---------- Blog ---------- */
+.grade-artigos { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px; }
+@media (max-width: 1000px) { .grade-artigos { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (max-width: 620px) { .grade-artigos { grid-template-columns: 1fr; } }
+.artigo-card { display: flex; flex-direction: column; gap: 12px; background: var(--card); border-radius: var(--raio); padding: 28px; transition: background .3s var(--ease), transform .3s var(--ease); }
+.artigo-card:hover { transform: translateY(-2px); }
+.artigo-card h3 { font-size: 19px; font-weight: 520; line-height: 1.3; color: var(--texto); }
+.artigo-card p { font-size: 15px; color: var(--texto-2); flex: 1; }
+.link-texto { display: inline-flex; align-items: center; gap: 8px; font-size: 15px; font-weight: 500; color: var(--texto); }
+.link-texto svg { width: 16px; height: 16px; transition: transform .3s var(--ease); }
+.artigo-card:hover .link-texto svg { transform: translateX(3px); }
+.topo-artigo .display { font-size: clamp(30px, 3.8vw, 50px); max-width: 24ch; }
+.artigo-grid { display: grid; grid-template-columns: minmax(0, 1fr) 340px; gap: clamp(32px, 5vw, 72px); align-items: start; }
+.artigo-corpo { max-width: 70ch; font-size: 17px; line-height: 1.75; color: var(--texto-2); }
+.artigo-corpo p { margin-bottom: 1.1em; }
+.artigo-corpo h2 { font-size: clamp(22px, 2vw, 26px); font-weight: 560; line-height: 1.25; color: var(--texto); margin: 1.6em 0 .6em; }
+.artigo-corpo h3 { font-size: 19px; font-weight: 560; color: var(--texto); margin: 1.4em 0 .5em; }
+.artigo-corpo strong { color: var(--texto); font-weight: 600; }
+.artigo-corpo a { color: var(--texto); text-decoration: underline; text-underline-offset: 3px; }
+.artigo-corpo ul, .artigo-corpo ol { padding-left: 1.3em; margin-bottom: 1.1em; }
+.artigo-corpo li { margin-bottom: .4em; }
+.artigo-corpo blockquote { border-left: 3px solid var(--azul); padding-left: 18px; margin: 1.4em 0; color: var(--texto); }
+.artigo-lado .artigo-lado-titulo { font-size: 22px; font-weight: 560; line-height: 1.25; color: var(--texto); margin: 10px 0 8px; }
+.artigo-lado .btn-whats { margin-top: 24px; }
+@media (max-width: 980px) { .artigo-grid { grid-template-columns: 1fr; } }
+.tema-claro .artigo-card { box-shadow: var(--sombra); }
+.tema-claro .artigo-card h3, .tema-claro .artigo-lado .artigo-lado-titulo, .tema-claro .artigo-corpo h2, .tema-claro .artigo-corpo h3 { color: var(--azul); }
+
+/* ===================== TEMA CLARO (teste) =====================
+   Ligado pela classe "tema-claro" no <html> (app/layout.tsx). Tirar a classe volta ao tema escuro.
+   Textos sobre fotos (topo, cards de categoria, chamada final, topo do imóvel) continuam brancos. */
+.tema-claro {
+  --tela: #f5f6f8;
+  --card: #ffffff;
+  --card-claro: #ffffff;
+  --superficie: #e8ebf2;
+  --texto: #121a3d;
+  --texto-2: #5b6079;
+  --linha: rgba(0, 30, 127, 0.12);
+  --linha-forte: rgba(0, 30, 127, 0.35);
+  --sombra: 0 1px 2px rgba(0, 30, 127, .06), 0 10px 28px -14px rgba(0, 30, 127, .22);
+}
+.tema-claro body { background: var(--tela); }
+
+/* títulos sobre o fundo claro em azul */
+.tema-claro .h2, .tema-claro .titulo { color: rgba(0, 30, 127, .55); }
+.tema-claro .h2 b, .tema-claro .titulo b, .tema-claro .topo-pagina .display, .tema-claro .topo-pagina .display b { color: var(--azul); }
+
+/* cabeçalho: links brancos sobre a foto e sobre a barra azul */
+.tema-claro .nav a, .tema-claro .menu-btn { color: var(--branco); }
+.tema-claro .aberto.header { background: var(--azul); }
+.tema-claro .gaveta { background: var(--branco); }
+
+/* topo da home e busca (sobre foto) */
+.tema-claro .hero .eyebrow, .tema-claro .hero-rodape p { color: var(--branco); }
+.tema-claro .hero-img::after { background: linear-gradient(180deg, rgba(10,14,40,.55) 0%, rgba(10,14,40,.3) 40%, rgba(10,14,40,.55) 80%, rgba(10,14,40,.7) 100%); }
+.tema-claro .busca select { color: var(--branco); }
+.tema-claro .busca label span { color: rgba(255,255,255,.75); }
+.tema-claro .busca select option { color: var(--texto); background: var(--branco); }
+
+/* cards de imóvel e demais quadros: brancos com sombra suave */
+.tema-claro .card, .tema-claro .depo, .tema-claro .pilares > div, .tema-claro .manifesto-caixa,
+.tema-claro .contato-grid a, .tema-claro .selo-caixa, .tema-claro .im-lado, .tema-claro .im-fatos div { box-shadow: var(--sombra); }
+.tema-claro .card:hover { background: var(--branco); box-shadow: 0 2px 4px rgba(0,30,127,.08), 0 18px 40px -16px rgba(0,30,127,.3); }
+.tema-claro .card-info h3, .tema-claro .card-preco { color: var(--azul); }
+.tema-claro .card-tag, .tema-claro .card-ref { color: var(--branco); }
+.tema-claro .contato-grid a:hover { background: var(--branco); }
+
+/* categorias e chamada final (sobre foto) */
+.tema-claro .categoria small, .tema-claro .cta .eyebrow { color: rgba(255,255,255,.82); }
+.tema-claro .btn-linha-claro { color: var(--branco); border-color: rgba(255,255,255,.6); }
+.tema-claro .btn-linha-claro:hover { background: rgba(255,255,255,.12); border-color: var(--branco); }
+
+/* carrossel de avaliações */
+.tema-claro .depo-pontos button { background: rgba(0,30,127,.2); }
+.tema-claro .depo-pontos button[aria-selected="true"] { background: var(--azul); }
+.tema-claro .depo-mapa { filter: brightness(0) saturate(100%) invert(12%) sepia(80%) saturate(4000%) hue-rotate(228deg); opacity: .08; }
+
+/* listagens */
+.tema-claro .filtros { background: rgba(245,246,248,.92); }
+.tema-claro .abas a[aria-current="page"] { background: var(--azul); color: var(--branco); border-color: var(--azul); }
+
+/* página do imóvel */
+.tema-claro .im-hero::after { background: linear-gradient(180deg, rgba(10,14,40,.5), rgba(10,14,40,0) 30%, rgba(10,14,40,.25) 55%, rgba(10,14,40,.85)); }
+.tema-claro .im-hero .eyebrow { color: var(--branco); }
+.tema-claro .im-hero .local { color: rgba(255,255,255,.85); }
+.tema-claro .im-fatos strong, .tema-claro .im-lado .valor { color: var(--azul); }
+.tema-claro .im-lado .ref b { color: var(--azul); }
+.tema-claro .mapa { filter: grayscale(.3); }
+.tema-claro .barra-whats { background: rgba(255,255,255,.94); }
+.tema-claro .barra-whats strong { color: var(--azul); }
+
+/* galeria em tela cheia continua escura */
+.tema-claro .lightbox { color: #ededf3; }
+.tema-claro .lb-topo { color: #c3c3cc; }
+.tema-claro .lb-topo button, .tema-claro .lb-nav { background: #353646; color: #ededf3; }

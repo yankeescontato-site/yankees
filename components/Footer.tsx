@@ -27,6 +27,7 @@ export default function Footer() {
           <Link href="/imoveis-itapema-sc">Itapema</Link>
           <Link href="/imoveis-porto-belo-sc">Porto Belo</Link>
           <Link href="/imoveis-balneario-camboriu-sc">Balneário Camboriú</Link>
+          <Link href="/blog">Blog</Link>
           <a href="https://www.instagram.com/yankeesitapema/" target="_blank" rel="noopener">Instagram</a>
         </nav>
         <div className="wrap rodape-base">
