@@ -1,12 +1,23 @@
-# Abre pedidos de atualização automáticos quando uma biblioteca do site ou uma ação do GitHub tiver correção de segurança.
+# Abre pedidos de atualização quando uma biblioteca do site ou uma ação do GitHub tiver correção.
+# Só sugere atualizações dentro da mesma versão principal (ex.: Next 15.5.x): saltos como Next 16 ou
+# TypeScript 7 mudam o funcionamento e quebram o site, então ficam para uma migração planejada.
 version: 2
 updates:
   - package-ecosystem: npm
     directory: /
     schedule:
       interval: weekly
-    open-pull-requests-limit: 5
+    open-pull-requests-limit: 3
+    ignore:
+      - dependency-name: "*"
+        update-types: ["version-update:semver-major"]
+    groups:
+      correcoes:
+        update-types: ["minor", "patch"]
   - package-ecosystem: github-actions
     directory: /
     schedule:
       interval: monthly
+    ignore:
+      - dependency-name: "*"
+        update-types: ["version-update:semver-major"]
