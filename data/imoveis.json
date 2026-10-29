@@ -17064,7 +17064,7 @@
     "dormitorios": null,
     "banheiros": 2,
     "vagas": 2,
-    "areaPrivativa": 100102,
+    "areaPrivativa": null,
     "detalhes": [
       {
         "nome": "Demisuítes",
@@ -17182,7 +17182,7 @@
     "dormitorios": null,
     "banheiros": 2,
     "vagas": 2,
-    "areaPrivativa": 100102,
+    "areaPrivativa": null,
     "detalhes": [
       {
         "nome": "Demisuítes",

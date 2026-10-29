@@ -8,6 +8,9 @@ import { STATUS, buscarImovel, foto, imoveis, linkWhats, preco, similares, titul
 
 type Props = { params: Promise<{ id: string; slug: string }> };
 
+// JSON dentro de <script>: escapa "<" para que um "</script>" vindo dos dados não feche o bloco.
+const jsonSeguro = (v: unknown) => JSON.stringify(v).replace(/</g, "\\u003c");
+
 export const dynamicParams = false;
 export function generateStaticParams() {
   return imoveis.map((i) => ({ id: i.id, slug: i.slug }));
@@ -56,7 +59,7 @@ export default async function PaginaImovel({ params }: Props) {
 
   return (
     <div className="com-barra">
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(ld) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: jsonSeguro(ld) }} />
       <section className="im-hero">
         <img src={foto(i.fotosOrigem[0])} alt={nome} fetchPriority="high" />
         <div className="wrap im-hero-in">

@@ -113,6 +113,40 @@ function lerImovel(html, base) {
   };
 }
 
+// Segurança: tudo que vem da OAWEB passa por aqui antes de ir para o site. Se a OAWEB for invadida,
+// não entram fotos de outros servidores, links estranhos nem textos gigantes; um imóvel fora do padrão derruba a importação.
+const FOTO_VALIDA = /^https:\/\/www\.buscaimoveisbrasil\.com\.br\/websites\/miniatura\/yankeesitapema\/1\/\d+\/1600\/1600\/90\/[\w-]+\.(jpe?g|png|webp)$/i;
+const texto = (v, max) => (v == null ? null : String(v).replace(/[\u0000-\u0008\u000B\u000C\u000E-\u001F\u007F]/g, "").slice(0, max));
+const numeroOuNulo = (v, min, max) => (typeof v === "number" && Number.isFinite(v) && v >= min && v <= max ? v : null);
+
+function sanear(im) {
+  if (!/^\d{1,10}$/.test(im.id) || !/^[a-z0-9-]{1,120}$/.test(im.slug)) throw new Error("id ou slug fora do padrão");
+  const fotos = im.fotosOrigem.filter((f) => FOTO_VALIDA.test(f));
+  if (fotos.length < im.fotosOrigem.length) console.warn(`  ${im.id}: ${im.fotosOrigem.length - fotos.length} foto(s) de origem desconhecida descartada(s)`);
+  return {
+    ...im,
+    titulo: texto(im.titulo, 160),
+    referencia: texto(im.referencia, 20),
+    bairro: texto(im.bairro, 80),
+    cidade: texto(im.cidade, 80),
+    uf: texto(im.uf, 2),
+    preco: numeroOuNulo(im.preco, 1, 1e9),
+    precoTexto: texto(im.precoTexto, 40),
+    descricao: texto(im.descricao, 8000) ?? "",
+    observacao: texto(im.observacao, 500),
+    suites: numeroOuNulo(im.suites, 0, 50),
+    dormitorios: numeroOuNulo(im.dormitorios, 0, 50),
+    banheiros: numeroOuNulo(im.banheiros, 0, 50),
+    vagas: numeroOuNulo(im.vagas, 0, 50),
+    areaPrivativa: numeroOuNulo(im.areaPrivativa, 1, 100000),
+    lazer: im.lazer.slice(0, 80).map((l) => texto(l, 80)),
+    lat: numeroOuNulo(im.lat, -90, 90),
+    lng: numeroOuNulo(im.lng, -180, 180),
+    cep: texto(im.cep, 10),
+    fotosOrigem: fotos.slice(0, 120),
+  };
+}
+
 async function emLotes(itens, n, fn) {
   const saida = [];
   for (let i = 0; i < itens.length; i += n) saida.push(...(await Promise.all(itens.slice(i, i + n).map(fn))));
@@ -129,7 +163,7 @@ const imoveis = (await emLotes([...mapa.values()], 6, async (item) => {
     const html = await baixarHtml(`${BASE}/imovel/${item.id}/${item.slug}`);
     const cats = item.categorias;
     const status = cats.has("aluguel") ? "aluguel" : cats.has("pre-lancamento") ? "pre-lancamento" : cats.has("lancamento") ? "lancamento" : "pronto";
-    return lerImovel(html, { id: item.id, slug: item.slug, status, categoriasOrigem: [...cats] });
+    return sanear(lerImovel(html, { id: item.id, slug: item.slug, status, categoriasOrigem: [...cats] }));
   } catch (e) {
     falhas++;
     console.warn(`✗ ${item.id} ${item.slug}: ${e.message}`);

@@ -1,0 +1,12 @@
+# Abre pedidos de atualização automáticos quando uma biblioteca do site ou uma ação do GitHub tiver correção de segurança.
+version: 2
+updates:
+  - package-ecosystem: npm
+    directory: /
+    schedule:
+      interval: weekly
+    open-pull-requests-limit: 5
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: monthly
