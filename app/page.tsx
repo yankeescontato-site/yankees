@@ -46,16 +46,15 @@ export default function Home() {
         /></div>
         <div className="hero-legenda sobe d4"><strong>Meia Praia</strong>Itapema · SC</div>
         <div className="wrap hero-in">
-          <span className="eyebrow sobe">Yankees Negócios Imobiliários</span>
           <h1 className="display sobe d1">De Itapema <b>para o mundo.</b></h1>
           <div className="hero-rodape sobe d2">
             <p>Há 13 anos conectamos clientes do Brasil e de mais de 15 países aos melhores endereços do litoral catarinense.</p>
+            <ul className="bandeiras" aria-label="Países de clientes Yankees">
+              {BANDEIRAS.map(([cod, nome]) => (
+                <li key={cod}><img src={`/brand/bandeiras/${cod}.svg`} alt={nome} title={nome} /></li>
+              ))}
+            </ul>
           </div>
-          <ul className="bandeiras sobe d2" aria-label="Países de clientes Yankees">
-            {BANDEIRAS.map(([cod, nome]) => (
-              <li key={cod}><img src={`/brand/bandeiras/${cod}.svg`} alt={nome} title={nome} /></li>
-            ))}
-          </ul>
           <div className="hero-busca sobe d3"><Busca cidades={cidades} /></div>
         </div>
       </section>
