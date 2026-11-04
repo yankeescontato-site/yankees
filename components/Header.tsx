@@ -39,8 +39,8 @@ export default function Header() {
     <header className={classe}>
       <div className="wrap header-in">
         <Link href="/" className="logo" aria-label="Yankees Negócios Imobiliários, início">
-          <img className="l-branca" src="/brand/logo-branca-sem-fundo.svg" alt="" />
-          <img className="l-azul" src="/brand/logo-azul-sem-fundo.svg" alt="" />
+          <img className="l-branca" src="/brand/nome-branca.svg" alt="" />
+          <img className="l-azul" src="/brand/nome-azul.svg" alt="" />
         </Link>
         <nav className="nav" aria-label="Principal">
           {LINKS.map((l) => (

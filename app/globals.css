@@ -78,8 +78,9 @@ button, input, select { font: inherit; color: inherit; }
 .header.solido .header-acoes .btn, .header.claro .header-acoes .btn { background: var(--branco); color: var(--azul); }
 .header.solido .header-acoes .btn:hover, .header.claro .header-acoes .btn:hover { background: #e6e9f5; }
 .header-in { height: 76px; display: flex; align-items: center; justify-content: space-between; gap: 24px; }
-.logo { display: block; height: 56px; width: 132px; position: relative; flex: none; }
-.logo img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: contain; transform: scale(1.45); }
+/* só o nome YANKEES (sem coroa e sem "negócios imobiliários") */
+.logo { display: block; height: 30px; width: 128px; position: relative; flex: none; }
+.logo img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: contain; }
 .logo .l-azul { display: none; }
 .nav { display: flex; gap: 2px; font-size: 15px; font-weight: 420; }
 .nav a { white-space: nowrap; padding: 8px 14px; border-radius: var(--pilula); color: var(--texto); transition: background .3s var(--ease); }
@@ -105,7 +106,7 @@ button, input, select { font: inherit; color: inherit; }
   .nav, .header-acoes .btn { display: none; }
   .menu-btn { display: block; }
   .header-in { height: 64px; }
-  .logo { height: 48px; width: 112px; }
+  .logo { height: 26px; width: 110px; }
   .gaveta {
     display: flex; flex-direction: column; position: fixed; inset: 64px 0 0 0; background: var(--tela);
     padding: 24px var(--gutter); gap: 4px; opacity: 0; pointer-events: none; transform: translateY(-8px); transition: opacity .3s var(--ease), transform .3s var(--ease);
@@ -125,6 +126,8 @@ button, input, select { font: inherit; color: inherit; }
 .hero-in { position: relative; padding-top: 120px; padding-bottom: 96px; display: grid; justify-items: center; }
 .hero .eyebrow { color: var(--texto); }
 .hero h1 { margin: 16px 0 20px; max-width: 14ch; line-height: .96; }
+/* existe para o Google e para leitores de tela, sem aparecer na tela */
+.so-leitor { position: absolute !important; width: 1px; height: 1px; padding: 0; margin: -1px !important; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0; }
 .hero-rodape p { max-width: 520px; color: var(--texto); font-size: 18px; font-weight: 420; line-height: 1.45; margin: 0 auto; }
 .bandeiras { list-style: none; display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; margin-top: 10px; }
 .bandeiras img { width: 30px; height: 20px; object-fit: cover; border-radius: 3px; box-shadow: 0 0 0 1px rgba(255,255,255,.18), 0 2px 6px rgba(0,0,0,.25); }

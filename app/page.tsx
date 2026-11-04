@@ -46,7 +46,8 @@ export default function Home() {
         /></div>
         <div className="hero-legenda sobe d4"><strong>Meia Praia</strong>Itapema · SC</div>
         <div className="wrap hero-in">
-          <h1 className="display sobe d1">De Itapema <b>para o mundo.</b></h1>
+          {/* título invisível: a capa não mostra frase grande, mas o Google e os leitores de tela precisam de um título */}
+          <h1 className="so-leitor">Yankees Negócios Imobiliários: imóveis em Itapema, Porto Belo e Balneário Camboriú</h1>
           <div className="hero-rodape sobe d2">
             <p>Há 13 anos conectamos clientes do Brasil e de mais de 15 países aos melhores endereços do litoral catarinense.</p>
             <ul className="bandeiras" aria-label="Países de clientes Yankees">
