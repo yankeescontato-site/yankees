@@ -541,3 +541,93 @@ button, input, select { font: inherit; color: inherit; }
 .tema-claro .lightbox { color: #ededf3; }
 .tema-claro .lb-topo { color: #c3c3cc; }
 .tema-claro .lb-topo button, .tema-claro .lb-nav { background: #353646; color: #ededf3; }
+
+/* ---------- Página 404: o apartamento que não existe ---------- */
+.aviso { position: relative; overflow: hidden; min-height: 100svh; padding: 148px 0 96px; display: flex; align-items: center; }
+.aviso-mapa { position: absolute; left: 50%; top: 52%; width: min(1500px, 140vw); max-width: none; transform: translate(-50%, -50%); opacity: .07; pointer-events: none; user-select: none; }
+.aviso-grid { position: relative; display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: clamp(32px, 5vw, 80px); align-items: center; }
+.aviso-texto { display: grid; justify-items: start; }
+.aviso-numero { margin: 18px 0 6px; font-size: clamp(112px, 15vw, 208px); line-height: .82; letter-spacing: -0.06em; color: var(--azul); font-feature-settings: "tnum" 1; display: flex; }
+.aviso-numero span { font-weight: 250; }
+.aviso-numero b { font-weight: 800; }
+.aviso-titulo { font-weight: 300; font-size: clamp(30px, 3.4vw, 44px); line-height: 1.12; letter-spacing: -0.02em; color: var(--texto); }
+.aviso-titulo b { font-weight: 700; color: var(--azul); }
+.aviso .lead { margin-top: 16px; }
+.aviso-acoes { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 32px; }
+.aviso-ajuda { margin-top: 22px; display: inline-flex; align-items: center; gap: 10px; font-size: 15px; color: var(--texto-2); transition: color .3s var(--ease); }
+.aviso-ajuda u { text-decoration-color: var(--linha-forte); text-underline-offset: 4px; color: var(--texto); transition: text-decoration-color .3s var(--ease); }
+.aviso-ajuda:hover u { text-decoration-color: var(--whats); }
+.aviso-ajuda-icone { width: 30px; height: 30px; border-radius: 50%; background: var(--whats); color: var(--branco); display: grid; place-items: center; flex: none; }
+.aviso-ajuda-icone svg { width: 16px; height: 16px; }
+.aviso-atalhos { margin-top: 44px; padding-top: 22px; border-top: 1px solid var(--linha); width: 100%; max-width: 520px; }
+.aviso-atalhos small { display: block; font-size: 12px; font-weight: 600; letter-spacing: .2em; text-transform: uppercase; color: var(--texto-2); margin-bottom: 12px; }
+.aviso-atalhos div { display: flex; flex-wrap: wrap; gap: 8px; }
+.aviso-atalhos a { font-size: 14px; padding: 7px 14px; border-radius: var(--pilula); border: 1px solid var(--linha); color: var(--texto); transition: border-color .3s var(--ease), color .3s var(--ease), background .3s var(--ease); }
+.aviso-atalhos a:hover { border-color: var(--azul); color: var(--azul); background: var(--card); }
+
+/* a ilustração */
+/* a cena encolhe para que prédio + ficha (que sai 232px pela direita) caibam na coluna */
+.aviso-arte { container-type: inline-size; width: 100%; }
+.aviso-cena { position: relative; width: min(470px, calc((100cqw - 236px) / .685)); }
+.aviso-svg { display: block; width: 100%; height: auto; overflow: visible; }
+.aviso-torre { fill: var(--azul); }
+.aviso-cobertura { fill: var(--azul); opacity: .85; }
+.aviso-antena { stroke: var(--azul); stroke-width: 2; }
+.aviso-vizinho { fill: var(--azul); opacity: .14; }
+.aviso-vizinho-2 { opacity: .09; }
+.aviso-laje { stroke: rgba(255,255,255,.14); stroke-width: 1; }
+.aviso-janela { fill: rgba(255,255,255,.07); }
+.aviso-luz { fill: #fdf6e3; opacity: .9; animation: aviso-acende 1.2s var(--ease) both; animation-delay: var(--d, 0s); }
+@keyframes aviso-acende { from { opacity: 0; } to { opacity: .9; } }
+.aviso-alvo { fill: rgba(0,0,0,.18); stroke: var(--branco); stroke-width: 1.2; stroke-dasharray: 3 3; }
+.aviso-alvo-halo { fill: none; stroke: var(--branco); stroke-width: 1; animation: aviso-halo 3.6s ease-in-out 1.6s infinite both; }
+@keyframes aviso-halo { 0%, 100% { opacity: .55; } 50% { opacity: .1; } }
+.aviso-alvo-num { fill: var(--branco); font-size: 10px; font-weight: 600; letter-spacing: .08em; }
+.aviso-guia { fill: none; stroke: var(--azul); stroke-width: 1.2; stroke-dasharray: 60; stroke-dashoffset: 60; animation: aviso-traca .9s var(--ease) 1.3s forwards; }
+@keyframes aviso-traca { to { stroke-dashoffset: 0; } }
+.aviso-ponto { fill: var(--azul); }
+.aviso-chao { stroke: var(--azul); stroke-width: 1.2; opacity: .5; }
+.aviso-mar { fill: none; stroke: var(--azul); stroke-width: 1.2; opacity: .28; }
+.aviso-mar-2 { opacity: .18; }
+.aviso-mar-3 { opacity: .1; }
+
+/* ficha "Ref. 404", no mesmo estilo das fichas de imóvel */
+.aviso-ficha { position: absolute; left: 68.5%; top: 65.5%; transform: translateY(-50%); width: 232px; background: var(--card); border-radius: var(--raio); padding: 20px 20px 16px; box-shadow: var(--sombra, 0 18px 40px -16px rgba(0,0,0,.5)); animation: aviso-ficha 1s var(--ease) 1.5s both; }
+@keyframes aviso-ficha { from { opacity: 0; transform: translate(10px, -50%); } to { opacity: 1; transform: translate(0, -50%); } }
+.aviso-ficha-ref { display: inline-block; font-size: 11px; font-weight: 600; letter-spacing: .2em; text-transform: uppercase; color: var(--branco); background: var(--azul); padding: 4px 10px; border-radius: var(--pilula); }
+.aviso-ficha strong { display: block; margin: 12px 0 14px; font-size: 17px; line-height: 1.25; font-weight: 600; color: var(--azul); }
+.aviso-ficha dl { display: grid; }
+.aviso-ficha dl div { display: flex; justify-content: space-between; gap: 12px; padding: 8px 0; border-top: 1px solid var(--linha); font-size: 13px; }
+.aviso-ficha dt { color: var(--texto-2); }
+.aviso-ficha dd { color: var(--texto); font-weight: 520; text-align: right; }
+.aviso-ficha dd.num { white-space: nowrap; }
+
+@media (max-width: 980px) {
+  .aviso { padding: 128px 0 80px; min-height: 0; }
+  .aviso-grid { grid-template-columns: 1fr; }
+}
+@media (max-width: 620px) {
+  .aviso { padding: 112px 0 64px; }
+  .aviso-acoes { width: 100%; }
+  .aviso-acoes .btn { flex: 1 1 100%; }
+  .aviso-cena { width: min(100%, 420px); margin: 0 auto; }
+  /* sem a linha até a ficha, o desenho é ampliado e centralizado no prédio */
+  .aviso-svg { width: 135%; margin-left: 4%; }
+  .aviso-guia, .aviso-ponto { display: none; }
+  .aviso-ficha { position: relative; left: auto; top: auto; transform: none; width: auto; margin: -28px 16px 0; animation-name: fade; }
+}
+
+/* ---------- Página de obrigado: a última janela acende ---------- */
+.aviso-palavra { font-size: clamp(68px, 8.6vw, 128px); letter-spacing: -0.05em; line-height: .9; margin-bottom: 14px; }
+.aviso-obrigado .aviso-titulo { font-size: clamp(24px, 2.6vw, 34px); }
+.aviso-alvo-aceso { stroke: none; fill: rgba(255,255,255,.07); animation: aviso-chegou 1.4s var(--ease) 2.3s forwards; }
+@keyframes aviso-chegou { to { fill: #ffe7a8; } }
+.aviso-obrigado .aviso-alvo-halo { stroke: #ffe7a8; opacity: 0; animation: aviso-halo 3.6s ease-in-out 3.2s infinite both; }
+.aviso-obrigado .aviso-guia { animation-delay: 2.6s; }
+.aviso-obrigado .aviso-ficha { animation-delay: 2.8s; }
+.aviso-passos { list-style: none; margin-top: 28px; display: grid; gap: 14px; width: 100%; max-width: 520px; }
+.aviso-passos li { display: flex; gap: 16px; align-items: flex-start; padding-top: 14px; border-top: 1px solid var(--linha); }
+.aviso-passos li > span { flex: none; width: 34px; height: 34px; border-radius: 50%; background: var(--azul); color: var(--branco); font-size: 12px; font-weight: 600; display: grid; place-items: center; }
+.aviso-passos strong { display: block; font-size: 15px; font-weight: 600; color: var(--texto); }
+.aviso-passos small { display: block; font-size: 14px; color: var(--texto-2); margin-top: 2px; }
+.aviso-obrigado .aviso-acoes { margin-top: 28px; }

@@ -11,7 +11,7 @@ export default function Contato() {
         <div className="wrap">
           <span className="eyebrow sobe">Contato</span>
           <h1 className="display sobe d1">Vamos <b>conversar.</b></h1>
-          <p className="lead sobe d2">Atendemos em português, inglês e espanhol, de segunda a sábado, das 9h às 18h.</p>
+          <p className="lead sobe d2">Atendemos em português, inglês e espanhol, todos os dias, 24 horas.</p>
         </div>
       </section>
       <section className="secao" style={{ paddingTop: 64 }}>

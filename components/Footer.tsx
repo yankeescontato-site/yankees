@@ -32,7 +32,7 @@ export default function Footer() {
         </nav>
         <div className="wrap rodape-base">
           <span>© {new Date().getFullYear()} Yankees Negócios Imobiliários · CRECI 4977-J</span>
-          <span>Seg a sáb, 9h às 18h</span>
+          <span>Atendimento todos os dias, 24 horas</span>
         </div>
       </div>
     </footer>
