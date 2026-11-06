@@ -6537,8 +6537,8 @@
     "bairro": "Alto Perequê",
     "cidade": "Porto Belo",
     "uf": "SC",
-    "preco": 1926569.54,
-    "precoTexto": "R$ 1.926.569,54",
+    "preco": 1926000,
+    "precoTexto": "R$ 1.926.000,00",
     "descricao": "O Reserva do Arvoredo é cercado pela natureza preservada, reunindo sofisticação, conforto e uma estrutura de lazer incomparável, criada para quem busca exclusividade e qualidade de vida em todos os detalhes. Mais do que um endereço, o empreendimento é um verdadeiro Home Club, onde a sofisticação urbana encontra a tranquilidade da natureza, criando um estilo de vida único e exclusivo.",
     "observacao": null,
     "suites": 2,
@@ -9994,8 +9994,8 @@
     "bairro": "Estreito",
     "cidade": "Itapema",
     "uf": "SC",
-    "preco": 11080000,
-    "precoTexto": "R$ 11.080.000,00",
+    "preco": 11632000,
+    "precoTexto": "R$ 11.632.000,00",
     "descricao": "Apartamento frente mar no Lumière Residence, no Estreito em Itapema, com 186,86 m² privativos, 4 suítes, 4 banheiros e 3 vagas de garagem. O imóvel finamente mobiliado possui suíte master com hidromassagem, ambientes integrados e espaço gourmet voltado para conforto e sofisticação diante do mar.\n\nO empreendimento oferece estrutura de lazer completa com piscinas cobertas e aquecidas, spa, sauna, sala de massagem, espaço yoga e pilates, academia, salão de festas, brinquedoteca e ambientes planejados para bem-estar e convivência.\n\nLocalizado na Avenida Nereu Ramos, no Estreito, o apartamento está em uma região estratégica frente mar, com fácil acesso aos bairros Centro e Meia Praia e é claro, às cidades vizinhas, Porto Belo e Balneário Camboriú, além de proximidade com restaurantes e serviços.\n\nViver neste apartamento é transformar a experiência de morar frente mar em uma rotina marcada por exclusividade, conforto e momentos únicos em um dos cenários mais valorizados do litoral catarinense.",
     "observacao": null,
     "suites": 1,
@@ -16773,124 +16773,6 @@
     ]
   },
   {
-    "id": "193160",
-    "slug": "belmare-residence",
-    "status": "pronto",
-    "categoriasOrigem": [
-      "venda"
-    ],
-    "titulo": "Belmare Residence",
-    "referencia": "IMB406",
-    "bairro": "Canto da Praia",
-    "cidade": "Itapema",
-    "uf": "SC",
-    "preco": 1500000,
-    "precoTexto": "R$ 1.500.000,00",
-    "descricao": "Apartamento 2503 no Belmare Residence, Localizado no Canto da Praia em Itapema, com 100,01 m² a 102,04 m² privativos, 3 suítes sendo 2 demi suítes, 2 banheiros, 1 lavabo e 2 vagas de garagem. O imóvel possui living integrado, sala de jantar, sala de estar, cozinha, área de serviço, espaço gourmet e sacada com churrasqueira, proporcionando ambientes amplos e funcionais para o dia a dia.\n\nO empreendimento possui incorporação imobiliária nº 59.408 e conta com torre única com 3 elevadores, guarita de segurança 24 horas, bicicletário, entrada para banhistas com ducha, lavabo e box de praia, além de vestiário e depósito para funcionários, trazendo mais praticidade e comodidade para moradores e visitantes.\n\nA área de lazer com 2.403,75 m² entregue completamente mobiliada e decorada, oferecendo piscinas externas adulto e infantil, piscinas internas aquecidas adulto e infantil, espelho d?água, terraço descoberto, spa, sauna, academia, sala de massagem, quadra poliesportiva, playground, brinquedoteca, bistrô, salão de festas, sala gourmet e sala de jogos.\n\nO apartamento está próximo ao mar, restaurantes, mercados e serviços essenciais. Um imóvel pensado para quem busca viver com conforto, lazer e qualidade de vida em uma das regiões mais valorizadas de Itapema.",
-    "observacao": null,
-    "suites": 2,
-    "dormitorios": null,
-    "banheiros": 2,
-    "vagas": 2,
-    "areaPrivativa": null,
-    "detalhes": [
-      {
-        "nome": "Demisuítes",
-        "valor": "2"
-      },
-      {
-        "nome": "Suítes",
-        "valor": "1"
-      },
-      {
-        "nome": "Lavabo",
-        "valor": "1"
-      },
-      {
-        "nome": "Total de Banheiros",
-        "valor": "2"
-      },
-      {
-        "nome": "Sala de Jantar",
-        "valor": null
-      },
-      {
-        "nome": "Living",
-        "valor": null
-      },
-      {
-        "nome": "Cozinha",
-        "valor": null
-      },
-      {
-        "nome": "Sala de Estar",
-        "valor": null
-      },
-      {
-        "nome": "Área de Serviço",
-        "valor": null
-      },
-      {
-        "nome": "Sacada",
-        "valor": "C/ Churrasqueira"
-      },
-      {
-        "nome": "Total de garagens",
-        "valor": "2"
-      },
-      {
-        "nome": "Área Útil (Privativa) (m²)",
-        "valor": "100 a 102"
-      },
-      {
-        "nome": "N. da Incorporação",
-        "valor": "59.408"
-      }
-    ],
-    "lazer": [
-      "Piscina Infantil: Coberta e Aquecida",
-      "Piscina: Coberta e Aquecida",
-      "Espaço Gourmet",
-      "Salão de festas: 1",
-      "Sauna",
-      "Academia",
-      "Sala de Jogos",
-      "Brinquedoteca",
-      "Playground",
-      "Sala de Massagem",
-      "SPA",
-      "Quadra esportiva",
-      "Hobby box",
-      "Área para Banhista",
-      "Elevador: 3",
-      "Portaria 24Hs"
-    ],
-    "outros": {},
-    "lat": -27.090851,
-    "lng": -48.612554,
-    "cep": "88220-000",
-    "fotosOrigem": [
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184014/1600/1600/90/1778870613457204.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184014/1600/1600/90/1778870611734956.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184014/1600/1600/90/1778873619724678.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184014/1600/1600/90/1778870001300652.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184014/1600/1600/90/1778870000959986.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184014/1600/1600/90/1778866523993719.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184014/1600/1600/90/1778869999149539.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184014/1600/1600/90/1778866453154369.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184014/1600/1600/90/1778870005632336.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184014/1600/1600/90/1778870003486579.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184014/1600/1600/90/1778866369569629.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184014/1600/1600/90/1778866328218376.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184014/1600/1600/90/1778870644354343.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184014/1600/1600/90/1778870613102008.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184014/1600/1600/90/1778870611693765.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184014/1600/1600/90/1778870601509141.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184014/1600/1600/90/1778870643909249.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184014/1600/1600/90/1778873618321821.jpg"
-    ]
-  },
-  {
     "id": "193161",
     "slug": "belmare-residence",
     "status": "pronto",
@@ -17252,6 +17134,124 @@
       "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184096/1600/1600/90/1780343766897613.jpg",
       "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184096/1600/1600/90/1780343767926647.jpg",
       "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184096/1600/1600/90/1780075052207281.jpg"
+    ]
+  },
+  {
+    "id": "193160",
+    "slug": "belmare-residence",
+    "status": "pronto",
+    "categoriasOrigem": [
+      "venda"
+    ],
+    "titulo": "Belmare Residence",
+    "referencia": "IMB406",
+    "bairro": "Canto da Praia",
+    "cidade": "Itapema",
+    "uf": "SC",
+    "preco": 1100000,
+    "precoTexto": "R$ 1.100.000,00",
+    "descricao": "Apartamento 2503 no Belmare Residence, Localizado no Canto da Praia em Itapema, com 100,01 m² a 102,04 m² privativos, 3 suítes sendo 2 demi suítes, 2 banheiros, 1 lavabo e 2 vagas de garagem. O imóvel possui living integrado, sala de jantar, sala de estar, cozinha, área de serviço, espaço gourmet e sacada com churrasqueira, proporcionando ambientes amplos e funcionais para o dia a dia.\n\nO empreendimento possui incorporação imobiliária nº 59.408 e conta com torre única com 3 elevadores, guarita de segurança 24 horas, bicicletário, entrada para banhistas com ducha, lavabo e box de praia, além de vestiário e depósito para funcionários, trazendo mais praticidade e comodidade para moradores e visitantes.\n\nA área de lazer com 2.403,75 m² entregue completamente mobiliada e decorada, oferecendo piscinas externas adulto e infantil, piscinas internas aquecidas adulto e infantil, espelho d?água, terraço descoberto, spa, sauna, academia, sala de massagem, quadra poliesportiva, playground, brinquedoteca, bistrô, salão de festas, sala gourmet e sala de jogos.\n\nO apartamento está próximo ao mar, restaurantes, mercados e serviços essenciais. Um imóvel pensado para quem busca viver com conforto, lazer e qualidade de vida em uma das regiões mais valorizadas de Itapema.",
+    "observacao": null,
+    "suites": 2,
+    "dormitorios": null,
+    "banheiros": 2,
+    "vagas": 2,
+    "areaPrivativa": null,
+    "detalhes": [
+      {
+        "nome": "Demisuítes",
+        "valor": "2"
+      },
+      {
+        "nome": "Suítes",
+        "valor": "1"
+      },
+      {
+        "nome": "Lavabo",
+        "valor": "1"
+      },
+      {
+        "nome": "Total de Banheiros",
+        "valor": "2"
+      },
+      {
+        "nome": "Sala de Jantar",
+        "valor": null
+      },
+      {
+        "nome": "Living",
+        "valor": null
+      },
+      {
+        "nome": "Cozinha",
+        "valor": null
+      },
+      {
+        "nome": "Sala de Estar",
+        "valor": null
+      },
+      {
+        "nome": "Área de Serviço",
+        "valor": null
+      },
+      {
+        "nome": "Sacada",
+        "valor": "C/ Churrasqueira"
+      },
+      {
+        "nome": "Total de garagens",
+        "valor": "2"
+      },
+      {
+        "nome": "Área Útil (Privativa) (m²)",
+        "valor": "100 a 102"
+      },
+      {
+        "nome": "N. da Incorporação",
+        "valor": "59.408"
+      }
+    ],
+    "lazer": [
+      "Piscina Infantil: Coberta e Aquecida",
+      "Piscina: Coberta e Aquecida",
+      "Espaço Gourmet",
+      "Salão de festas: 1",
+      "Sauna",
+      "Academia",
+      "Sala de Jogos",
+      "Brinquedoteca",
+      "Playground",
+      "Sala de Massagem",
+      "SPA",
+      "Quadra esportiva",
+      "Hobby box",
+      "Área para Banhista",
+      "Elevador: 3",
+      "Portaria 24Hs"
+    ],
+    "outros": {},
+    "lat": -27.090851,
+    "lng": -48.612554,
+    "cep": "88220-000",
+    "fotosOrigem": [
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184014/1600/1600/90/1778870613457204.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184014/1600/1600/90/1778870611734956.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184014/1600/1600/90/1778873619724678.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184014/1600/1600/90/1778870001300652.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184014/1600/1600/90/1778870000959986.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184014/1600/1600/90/1778866523993719.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184014/1600/1600/90/1778869999149539.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184014/1600/1600/90/1778866453154369.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184014/1600/1600/90/1778870005632336.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184014/1600/1600/90/1778870003486579.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184014/1600/1600/90/1778866369569629.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184014/1600/1600/90/1778866328218376.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184014/1600/1600/90/1778870644354343.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184014/1600/1600/90/1778870613102008.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184014/1600/1600/90/1778870611693765.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184014/1600/1600/90/1778870601509141.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184014/1600/1600/90/1778870643909249.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184014/1600/1600/90/1778873618321821.jpg"
     ]
   },
   {
