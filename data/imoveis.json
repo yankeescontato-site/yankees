@@ -6525,128 +6525,6 @@
     ]
   },
   {
-    "id": "191607",
-    "slug": "reserva-do-arvoredo",
-    "status": "lancamento",
-    "categoriasOrigem": [
-      "lancamento",
-      "venda"
-    ],
-    "titulo": "Reserva do Arvoredo",
-    "referencia": "IMB334",
-    "bairro": "Alto Perequê",
-    "cidade": "Porto Belo",
-    "uf": "SC",
-    "preco": 1926000,
-    "precoTexto": "R$ 1.926.000,00",
-    "descricao": "O Reserva do Arvoredo é cercado pela natureza preservada, reunindo sofisticação, conforto e uma estrutura de lazer incomparável, criada para quem busca exclusividade e qualidade de vida em todos os detalhes. Mais do que um endereço, o empreendimento é um verdadeiro Home Club, onde a sofisticação urbana encontra a tranquilidade da natureza, criando um estilo de vida único e exclusivo.",
-    "observacao": null,
-    "suites": 2,
-    "dormitorios": null,
-    "banheiros": 2,
-    "vagas": 2,
-    "areaPrivativa": 91,
-    "detalhes": [
-      {
-        "nome": "Suítes",
-        "valor": "2"
-      },
-      {
-        "nome": "Total de Banheiros",
-        "valor": "2"
-      },
-      {
-        "nome": "Total de garagens",
-        "valor": "2"
-      },
-      {
-        "nome": "Gás individual",
-        "valor": null
-      },
-      {
-        "nome": "Hidrômetro individual",
-        "valor": null
-      },
-      {
-        "nome": "Infraestrutura p/ água quente",
-        "valor": null
-      },
-      {
-        "nome": "Piso porcelanato",
-        "valor": null
-      },
-      {
-        "nome": "Acabamento em gesso",
-        "valor": null
-      },
-      {
-        "nome": "Área Útil (Privativa) (m²)",
-        "valor": "91"
-      },
-      {
-        "nome": "Área Total (m²)",
-        "valor": "140"
-      }
-    ],
-    "lazer": [
-      "Piscina Infantil: Aquecida",
-      "Piscina: Coberta e Aquecida",
-      "Quiosque",
-      "Churrasqueira",
-      "Salão de festas: 2",
-      "Sauna",
-      "Academia",
-      "Sala de Jogos",
-      "Brinquedoteca",
-      "Playground",
-      "Sala de Massagem",
-      "SPA",
-      "Quadra esportiva",
-      "Boate (Pub)",
-      "Hobby box",
-      "Fire Place",
-      "Cool Work",
-      "Área para Banhista",
-      "Pet play",
-      "Bicicletário",
-      "Portaria 24Hs"
-    ],
-    "outros": {},
-    "lat": -27.1159438379,
-    "lng": -48.6153202057,
-    "cep": null,
-    "fotosOrigem": [
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182492/1600/1600/90/1759174493989810563.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182492/1600/1600/90/1759174479514454119.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182492/1600/1600/90/1759174480545108286.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182492/1600/1600/90/175917448179060869.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182492/1600/1600/90/1759174482900048823.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182492/1600/1600/90/1759174482310709875.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182492/1600/1600/90/1759174483305168136.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182492/1600/1600/90/1759174486235163484.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182492/1600/1600/90/175917448173335377.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182492/1600/1600/90/1759174484567013450.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182492/1600/1600/90/1759174485214418921.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182492/1600/1600/90/1759174491517155783.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182492/1600/1600/90/1759174493394510627.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182492/1600/1600/90/1759174494911674611.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182492/1600/1600/90/1759174488554637969.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182492/1600/1600/90/1759174487516439102.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182492/1600/1600/90/175917448778845939.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182492/1600/1600/90/1759174489126341340.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182492/1600/1600/90/175917449096463976.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182492/1600/1600/90/1759174490820009633.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182492/1600/1600/90/1759174486747122969.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182492/1600/1600/90/175917448635937156.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182492/1600/1600/90/1759174485854931957.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182492/1600/1600/90/1759174484120025828.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182492/1600/1600/90/1759174489273992371.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182492/1600/1600/90/1759174485130214939.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182492/1600/1600/90/1759174491395229419.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182492/1600/1600/90/1759174492151385474.jpg"
-    ]
-  },
-  {
     "id": "176261",
     "slug": "select-towers-residence",
     "status": "lancamento",
@@ -7178,6 +7056,128 @@
       "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182482/1600/1600/90/1758913094747717026.jpg",
       "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182482/1600/1600/90/1758913093917462227.jpg",
       "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182482/1600/1600/90/1758913086805467738.jpg"
+    ]
+  },
+  {
+    "id": "191607",
+    "slug": "reserva-do-arvoredo",
+    "status": "lancamento",
+    "categoriasOrigem": [
+      "lancamento",
+      "venda"
+    ],
+    "titulo": "Reserva do Arvoredo",
+    "referencia": "IMB334",
+    "bairro": "Alto Perequê",
+    "cidade": "Porto Belo",
+    "uf": "SC",
+    "preco": 1600000,
+    "precoTexto": "R$ 1.600.000,00",
+    "descricao": "O Reserva do Arvoredo é cercado pela natureza preservada, reunindo sofisticação, conforto e uma estrutura de lazer incomparável, criada para quem busca exclusividade e qualidade de vida em todos os detalhes. Mais do que um endereço, o empreendimento é um verdadeiro Home Club, onde a sofisticação urbana encontra a tranquilidade da natureza, criando um estilo de vida único e exclusivo.",
+    "observacao": null,
+    "suites": 2,
+    "dormitorios": null,
+    "banheiros": 2,
+    "vagas": 2,
+    "areaPrivativa": 91,
+    "detalhes": [
+      {
+        "nome": "Suítes",
+        "valor": "2"
+      },
+      {
+        "nome": "Total de Banheiros",
+        "valor": "2"
+      },
+      {
+        "nome": "Total de garagens",
+        "valor": "2"
+      },
+      {
+        "nome": "Gás individual",
+        "valor": null
+      },
+      {
+        "nome": "Hidrômetro individual",
+        "valor": null
+      },
+      {
+        "nome": "Infraestrutura p/ água quente",
+        "valor": null
+      },
+      {
+        "nome": "Piso porcelanato",
+        "valor": null
+      },
+      {
+        "nome": "Acabamento em gesso",
+        "valor": null
+      },
+      {
+        "nome": "Área Útil (Privativa) (m²)",
+        "valor": "91"
+      },
+      {
+        "nome": "Área Total (m²)",
+        "valor": "140"
+      }
+    ],
+    "lazer": [
+      "Piscina Infantil: Aquecida",
+      "Piscina: Coberta e Aquecida",
+      "Quiosque",
+      "Churrasqueira",
+      "Salão de festas: 2",
+      "Sauna",
+      "Academia",
+      "Sala de Jogos",
+      "Brinquedoteca",
+      "Playground",
+      "Sala de Massagem",
+      "SPA",
+      "Quadra esportiva",
+      "Boate (Pub)",
+      "Hobby box",
+      "Fire Place",
+      "Cool Work",
+      "Área para Banhista",
+      "Pet play",
+      "Bicicletário",
+      "Portaria 24Hs"
+    ],
+    "outros": {},
+    "lat": -27.1159438379,
+    "lng": -48.6153202057,
+    "cep": null,
+    "fotosOrigem": [
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182492/1600/1600/90/1759174493989810563.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182492/1600/1600/90/1759174479514454119.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182492/1600/1600/90/1759174480545108286.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182492/1600/1600/90/175917448179060869.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182492/1600/1600/90/1759174482900048823.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182492/1600/1600/90/1759174482310709875.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182492/1600/1600/90/1759174483305168136.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182492/1600/1600/90/1759174486235163484.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182492/1600/1600/90/175917448173335377.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182492/1600/1600/90/1759174484567013450.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182492/1600/1600/90/1759174485214418921.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182492/1600/1600/90/1759174491517155783.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182492/1600/1600/90/1759174493394510627.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182492/1600/1600/90/1759174494911674611.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182492/1600/1600/90/1759174488554637969.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182492/1600/1600/90/1759174487516439102.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182492/1600/1600/90/175917448778845939.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182492/1600/1600/90/1759174489126341340.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182492/1600/1600/90/175917449096463976.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182492/1600/1600/90/1759174490820009633.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182492/1600/1600/90/1759174486747122969.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182492/1600/1600/90/175917448635937156.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182492/1600/1600/90/1759174485854931957.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182492/1600/1600/90/1759174484120025828.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182492/1600/1600/90/1759174489273992371.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182492/1600/1600/90/1759174485130214939.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182492/1600/1600/90/1759174491395229419.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182492/1600/1600/90/1759174492151385474.jpg"
     ]
   },
   {
@@ -16029,8 +16029,8 @@
     "bairro": "Meia Praia",
     "cidade": "Itapema",
     "uf": "SC",
-    "preco": 1999000,
-    "precoTexto": "R$ 1.999.000,00",
+    "preco": 1800000,
+    "precoTexto": "R$ 1.800.000,00",
     "descricao": "Um lar desde a entrada! \n\nEm todo apartamento foi colocado piso vinílico e os ambientes trabalhados com luzes quentes para que sua chegada se torne aconchegante. A posição solar desse apartamento é especifica para quem busca o sol da manhã, pois ele iluminará seu living e as suas suítes até ás 13:00 am. Toda sua mobília e eletrodomésticos foram escolhidos a dedo pelo proprietário para que você tenha sofisticação e praticidade ao seu dispor no seu apartamento. \n\nQuer um exemplo de praticidade? \n\n- Na cozinha você terá uma máquina para lavar louças (Eletrolux) a sua disposição, na área de serviço terá uma lava e seca onde não precisará depender do tempo para ter a roupa que precisa, na parte de churrasqueira estamos falando da possibilidade de assar carnes em temperaturas mais altas, sem labaredas e com menor fumaça pois terá uma parrilla argentina para usar. Isso são alguns pontos que esse apartamento pode lhe trazer.\n\nQuer um exemplo de conforto? \n\n - Quando você quiser, em duas suítes, você terá um toalheiro térmico nos banheiros que pode aquecer até duas toalhas grandes para seu conforto na dia-a-dia. Quando quiser ler um bom livro, terá nas cabeceiras das camas uma luz quente para que você não force tanto a visão. Quando estiver na sua suíte, você poderá desfrutar de uma boa Tv em um ambiente climatizado com ar-condicionado, pois em todas as suítes você tem acesso a isso. \n\nLocalização: \n\n- A localização desse apartamento é impar, pois ele se encontra a 60m do mercado Dal Mago, a 150m do mercado \"Poko Preço\", 30m da Farmácia, 15m da loja de roupas femininas Blossom, 300m do posto de gasolina 4 Ilhas e a 600m do mar.",
     "observacao": null,
     "suites": 3,
