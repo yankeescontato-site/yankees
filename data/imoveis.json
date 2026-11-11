@@ -272,6 +272,110 @@
     ]
   },
   {
+    "id": "191641",
+    "slug": "ap-praia-home-resort",
+    "status": "pre-lancamento",
+    "categoriasOrigem": [
+      "pre-lancamento",
+      "venda"
+    ],
+    "titulo": "AP Praia Home Resort",
+    "referencia": "IMB341",
+    "bairro": "Ilhota",
+    "cidade": "Itapema",
+    "uf": "SC",
+    "preco": 2777500,
+    "precoTexto": "R$ 2.777.500,00",
+    "descricao": "O AP Praia Home Resort é o endereço que reúne tudo o que você sempre sonhou: frente mar, mais de 3.100 m² de lazer e a exclusividade de viver em um verdadeiro home club. Localizado em Ilhota, entre a BR-101 e o mar, o empreendimento oferece praticidade de acesso sem abrir mão da tranquilidade e da vista deslumbrante do oceano.\n\nMais do que um lugar para morar, é um convite para viver bem, com conforto, elegância e o privilégio único de estar de frente para o mar em Itapema.",
+    "observacao": null,
+    "suites": 3,
+    "dormitorios": null,
+    "banheiros": 4,
+    "vagas": 3,
+    "areaPrivativa": 132.25,
+    "detalhes": [
+      {
+        "nome": "Suítes",
+        "valor": "3"
+      },
+      {
+        "nome": "Lavabo",
+        "valor": "1"
+      },
+      {
+        "nome": "Total de Banheiros",
+        "valor": "4"
+      },
+      {
+        "nome": "Living",
+        "valor": null
+      },
+      {
+        "nome": "Cozinha",
+        "valor": null
+      },
+      {
+        "nome": "Área de Serviço",
+        "valor": null
+      },
+      {
+        "nome": "Espaço Gourmet",
+        "valor": null
+      },
+      {
+        "nome": "Churrasqueira",
+        "valor": null
+      },
+      {
+        "nome": "Total de garagens",
+        "valor": "3"
+      },
+      {
+        "nome": "Área Útil (Privativa) (m²)",
+        "valor": "132,25"
+      }
+    ],
+    "lazer": [
+      "Piscina Infantil",
+      "Piscina",
+      "Salão de festas: 3",
+      "Sauna",
+      "Academia",
+      "Sala de Jogos",
+      "Brinquedoteca",
+      "Playground",
+      "Sala de Massagem",
+      "Espaço Mulher",
+      "Poker Room",
+      "Elevador: 4",
+      "Pet play"
+    ],
+    "outros": {},
+    "lat": -27.1159438379,
+    "lng": -48.6153202057,
+    "cep": null,
+    "fotosOrigem": [
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182523/1600/1600/90/1759425500866149183.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182523/1600/1600/90/1759425499842204548.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182523/1600/1600/90/1759425499677100762.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182523/1600/1600/90/1759425500603082887.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182523/1600/1600/90/1759425500735642004.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182523/1600/1600/90/175942550497532470.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182523/1600/1600/90/1759425503456691887.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182523/1600/1600/90/1759425503444993916.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182523/1600/1600/90/1759425503913350368.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182523/1600/1600/90/1759425502177513112.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182523/1600/1600/90/1759425501857086798.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182523/1600/1600/90/1759425501656328734.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182523/1600/1600/90/1759425501884404911.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182523/1600/1600/90/1759425501307472112.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182523/1600/1600/90/1759425502930190065.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182523/1600/1600/90/1759425502534850562.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182523/1600/1600/90/1759425502502465661.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/182523/1600/1600/90/1759425504147919491.jpg"
+    ]
+  },
+  {
     "id": "192604",
     "slug": "eclipse-antonioli",
     "status": "pre-lancamento",
@@ -15950,6 +16054,127 @@
     ]
   },
   {
+    "id": "194280",
+    "slug": "salt-lake-home",
+    "status": "pronto",
+    "categoriasOrigem": [
+      "venda"
+    ],
+    "titulo": "Salt Lake Home",
+    "referencia": "IMB482",
+    "bairro": "Meia Praia",
+    "cidade": "Itapema",
+    "uf": "SC",
+    "preco": 1900000,
+    "precoTexto": "R$ 1.900.000,00",
+    "descricao": "+ Suítes: [3]\r\n Lavabo: [1]\r\n Total de Banheiros *: [4]\r\n Sala de Jantar\r\n Living\r\n Cozinha\r\n Sala de Estar\r\n Área de Serviço\r\n Churrasqueira\r\n Total de garagens *: [2]\r\n Gás individual\r\n Hidrômetro individual\r\n Infraestrutura p/ ar condicionado\r\n Piso porcelanato\r\n Acabamento em gesso\r\n Área Útil (Privativa) (m²) *: [111,11]",
+    "observacao": null,
+    "suites": 3,
+    "dormitorios": null,
+    "banheiros": 4,
+    "vagas": 2,
+    "areaPrivativa": 111.11,
+    "detalhes": [
+      {
+        "nome": "Suítes",
+        "valor": "3"
+      },
+      {
+        "nome": "Lavabo",
+        "valor": "1"
+      },
+      {
+        "nome": "Total de Banheiros",
+        "valor": "4"
+      },
+      {
+        "nome": "Sala de Jantar",
+        "valor": null
+      },
+      {
+        "nome": "Living",
+        "valor": null
+      },
+      {
+        "nome": "Cozinha",
+        "valor": null
+      },
+      {
+        "nome": "Sala de Estar",
+        "valor": null
+      },
+      {
+        "nome": "Área de Serviço",
+        "valor": null
+      },
+      {
+        "nome": "Churrasqueira",
+        "valor": null
+      },
+      {
+        "nome": "Total de garagens",
+        "valor": "2"
+      },
+      {
+        "nome": "Gás individual",
+        "valor": null
+      },
+      {
+        "nome": "Hidrômetro individual",
+        "valor": null
+      },
+      {
+        "nome": "Infraestrutura p/ ar condicionado",
+        "valor": null
+      },
+      {
+        "nome": "Piso porcelanato",
+        "valor": null
+      },
+      {
+        "nome": "Acabamento em gesso",
+        "valor": null
+      },
+      {
+        "nome": "Área Útil (Privativa) (m²)",
+        "valor": "111,11"
+      }
+    ],
+    "lazer": [
+      "Piscina",
+      "Salão de festas: 1",
+      "Academia",
+      "Sala de Jogos",
+      "Hobby box",
+      "Área para Banhista",
+      "Porteiro eletrônico"
+    ],
+    "outros": {},
+    "lat": -27.1312475,
+    "lng": -48.6046851,
+    "cep": "88220-000",
+    "fotosOrigem": [
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185081/1600/1600/90/1794330821684430.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185081/1600/1600/90/1794330826643632.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185081/1600/1600/90/1794330826338395.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185081/1600/1600/90/1794330825815457.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185081/1600/1600/90/1794330824314411.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185081/1600/1600/90/1794330824102025.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185081/1600/1600/90/1794330823479492.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185081/1600/1600/90/1794330822489239.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185081/1600/1600/90/1794330821812481.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185081/1600/1600/90/1794330814677362.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185081/1600/1600/90/1794330820265272.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185081/1600/1600/90/1794330819147214.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185081/1600/1600/90/1794330818240831.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185081/1600/1600/90/1794330817502502.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185081/1600/1600/90/1794330817135694.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185081/1600/1600/90/1794330816366254.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185081/1600/1600/90/1794330815998115.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185081/1600/1600/90/1794330814853448.jpg"
+    ]
+  },
+  {
     "id": "189700",
     "slug": "saint-patrick-residence",
     "status": "pronto",
@@ -16638,6 +16863,128 @@
       "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184650/1600/1600/90/1788616492570363.jpg",
       "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184650/1600/1600/90/1788616493808198.jpg",
       "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184650/1600/1600/90/1788616493916521.jpg"
+    ]
+  },
+  {
+    "id": "194279",
+    "slug": "salt-lake-home",
+    "status": "pronto",
+    "categoriasOrigem": [
+      "venda"
+    ],
+    "titulo": "Salt Lake Home",
+    "referencia": "IMB481",
+    "bairro": "Meia Praia",
+    "cidade": "Itapema",
+    "uf": "SC",
+    "preco": 1700000,
+    "precoTexto": "R$ 1.700.000,00",
+    "descricao": "+ Suítes: [3]\r\n Total de Banheiros *: [4]\r\n Lavabo: [1]\r\n Sala de Estar\r\n Cozinha\r\n Living\r\n Sala de Jantar\r\n Área de Serviço\r\n Churrasqueira\r\n Total de garagens *: [2]\r\n Acabamento em gesso\r\n Piso porcelanato\r\n Infraestrutura p/ ar condicionado\r\n Hidrômetro individual\r\n Gás individual\r\n Área Útil (Privativa) (m²) *: [111,11]",
+    "observacao": null,
+    "suites": 3,
+    "dormitorios": null,
+    "banheiros": 4,
+    "vagas": 2,
+    "areaPrivativa": 111.11,
+    "detalhes": [
+      {
+        "nome": "Suítes",
+        "valor": "3"
+      },
+      {
+        "nome": "Total de Banheiros",
+        "valor": "4"
+      },
+      {
+        "nome": "Lavabo",
+        "valor": "1"
+      },
+      {
+        "nome": "Sala de Estar",
+        "valor": null
+      },
+      {
+        "nome": "Cozinha",
+        "valor": null
+      },
+      {
+        "nome": "Living",
+        "valor": null
+      },
+      {
+        "nome": "Sala de Jantar",
+        "valor": null
+      },
+      {
+        "nome": "Área de Serviço",
+        "valor": null
+      },
+      {
+        "nome": "Churrasqueira",
+        "valor": null
+      },
+      {
+        "nome": "Total de garagens",
+        "valor": "2"
+      },
+      {
+        "nome": "Acabamento em gesso",
+        "valor": null
+      },
+      {
+        "nome": "Piso porcelanato",
+        "valor": null
+      },
+      {
+        "nome": "Infraestrutura p/ ar condicionado",
+        "valor": null
+      },
+      {
+        "nome": "Hidrômetro individual",
+        "valor": null
+      },
+      {
+        "nome": "Gás individual",
+        "valor": null
+      },
+      {
+        "nome": "Área Útil (Privativa) (m²)",
+        "valor": "111,11"
+      }
+    ],
+    "lazer": [
+      "Piscina",
+      "Salão de festas: 1",
+      "Academia",
+      "Sala de Jogos",
+      "Hobby box",
+      "Área para Banhista",
+      "Porteiro eletrônico"
+    ],
+    "outros": {},
+    "lat": -27.1312475,
+    "lng": -48.6046851,
+    "cep": "88220-000",
+    "fotosOrigem": [
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185080/1600/1600/90/1794322314542005.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185080/1600/1600/90/1794322331895779.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185080/1600/1600/90/1794322330944458.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185080/1600/1600/90/1794322329777135.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185080/1600/1600/90/1794322328300876.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185080/1600/1600/90/1794322327680800.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185080/1600/1600/90/1794322327531052.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185080/1600/1600/90/1794322326360214.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185080/1600/1600/90/1794322325195451.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185080/1600/1600/90/1794322324482646.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185080/1600/1600/90/1794322323815489.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185080/1600/1600/90/1794322322860146.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185080/1600/1600/90/1794322321270354.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185080/1600/1600/90/1794322319252895.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185080/1600/1600/90/1794322319110897.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185080/1600/1600/90/1794322318733846.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185080/1600/1600/90/1794322317686927.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185080/1600/1600/90/1794322315323139.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185080/1600/1600/90/1794322313984715.jpg"
     ]
   },
   {
