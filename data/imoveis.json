@@ -5763,13 +5763,13 @@
   },
   {
     "id": "117872",
-    "slug": "grand-ducado-residence",
+    "slug": "gran-ducado-residence",
     "status": "lancamento",
     "categoriasOrigem": [
       "lancamento",
       "venda"
     ],
-    "titulo": "Grand Ducado Residence",
+    "titulo": "Gran Ducado Residence",
     "referencia": "IMB24",
     "bairro": "Meia Praia",
     "cidade": "Itapema",
@@ -7860,8 +7860,8 @@
     "bairro": "Balneário Perequê",
     "cidade": "Porto Belo",
     "uf": "SC",
-    "preco": 1087000,
-    "precoTexto": "R$ 1.087.000,00",
+    "preco": 1130000,
+    "precoTexto": "R$ 1.130.000,00",
     "descricao": "+ Suítes: [1]\r\n Dormitórios *: [1]\r\n Total de Banheiros *: [2]\r\n Living\r\n Cozinha\r\n Sacada: [C/ Churrasqueira]\r\n Total de garagens *: [1]\r\n Garagem *: [1 Vaga (Privativa)]\r\n Área Útil (Privativa) (m²) *: [68,51]\r\n N. da Incorporação: [49.680]",
     "observacao": null,
     "suites": 1,
@@ -8921,6 +8921,139 @@
     ]
   },
   {
+    "id": "163323",
+    "slug": "classic-home-club",
+    "status": "lancamento",
+    "categoriasOrigem": [
+      "lancamento",
+      "venda"
+    ],
+    "titulo": "Classic Home Club",
+    "referencia": "IMB223",
+    "bairro": "Monte Alegre",
+    "cidade": "Camboriú",
+    "uf": "SC",
+    "preco": 831000,
+    "precoTexto": "R$ 831.000,00",
+    "descricao": "Este empreendimento mescla um acabamento primorosa, com um projeto totalmente pensando empara suprir as necessidades de sua família. Com localização privilegiada na Av. Marginal Oeste em , Camboriú este Home Club proporciona facilidade de acesso à comércios universidades e shopping center.",
+    "observacao": null,
+    "suites": 1,
+    "dormitorios": 1,
+    "banheiros": 2,
+    "vagas": 1,
+    "areaPrivativa": 66.83,
+    "detalhes": [
+      {
+        "nome": "Suítes",
+        "valor": "1"
+      },
+      {
+        "nome": "Dormitórios",
+        "valor": "1"
+      },
+      {
+        "nome": "Total de Banheiros",
+        "valor": "2"
+      },
+      {
+        "nome": "Living",
+        "valor": null
+      },
+      {
+        "nome": "Cozinha",
+        "valor": null
+      },
+      {
+        "nome": "Área de Serviço",
+        "valor": null
+      },
+      {
+        "nome": "Energia",
+        "valor": "220"
+      },
+      {
+        "nome": "Sacada",
+        "valor": "C/ Churrasqueira"
+      },
+      {
+        "nome": "Churrasqueira",
+        "valor": null
+      },
+      {
+        "nome": "Total de garagens",
+        "valor": "1"
+      },
+      {
+        "nome": "Garagem",
+        "valor": "1 Vaga (Privativa)"
+      },
+      {
+        "nome": "Infraestrutura p/ ar condicionado",
+        "valor": null
+      },
+      {
+        "nome": "Acabamento em gesso",
+        "valor": null
+      },
+      {
+        "nome": "Área Útil (Privativa) (m²)",
+        "valor": "66,83"
+      },
+      {
+        "nome": "Área Garagens (m²)",
+        "valor": "12,5"
+      },
+      {
+        "nome": "Previsão de entrega",
+        "valor": "24  25  26"
+      }
+    ],
+    "lazer": [
+      "Piscina Infantil",
+      "Piscina",
+      "Churrasqueira",
+      "Espaço Gourmet",
+      "Salão de festas: 1",
+      "Academia",
+      "Sala de Jogos",
+      "Espaço Kids",
+      "Brinquedoteca",
+      "Fire Place",
+      "Elevador: 4 por torre",
+      "Bicicletário",
+      "Portaria 24Hs"
+    ],
+    "outros": {},
+    "lat": -26.9970962,
+    "lng": -48.6545035,
+    "cep": "88337-335",
+    "fotosOrigem": [
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/156386/1600/1600/90/163120994933046750.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/156386/1600/1600/90/1631209948497369986.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/156386/1600/1600/90/1631209951686775220.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/156386/1600/1600/90/1631209950842119238.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/156386/1600/1600/90/1631209948189908312.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/156386/1600/1600/90/1631209948888795744.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/156386/1600/1600/90/1631209950139108349.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/156386/1600/1600/90/1631209950531124580.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/156386/1600/1600/90/1631209952257326979.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/156386/1600/1600/90/1631209950740706753.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/156386/1600/1600/90/1631209948302031972.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/156386/1600/1600/90/1631209948602030785.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/156386/1600/1600/90/163120995163730396.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/156386/1600/1600/90/1631209951713133282.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/156386/1600/1600/90/1631209952567005877.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/156386/1600/1600/90/1631209951795316668.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/156386/1600/1600/90/1631209951324182483.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/156386/1600/1600/90/1631209950673117014.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/156386/1600/1600/90/1631209950604821837.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/156386/1600/1600/90/1631209949803273617.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/156386/1600/1600/90/16312099513187402.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/156386/1600/1600/90/163120994922106364.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/156386/1600/1600/90/1631209949155618739.jpg"
+    ]
+  },
+  {
     "id": "193162",
     "slug": "blue-view-residente",
     "status": "lancamento",
@@ -9155,139 +9288,6 @@
       "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184518/1600/1600/90/1786974127127066.jpg",
       "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184518/1600/1600/90/1786974126346971.jpg",
       "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184518/1600/1600/90/1786974126659325.jpg"
-    ]
-  },
-  {
-    "id": "163323",
-    "slug": "classic-home-club",
-    "status": "lancamento",
-    "categoriasOrigem": [
-      "lancamento",
-      "venda"
-    ],
-    "titulo": "Classic Home Club",
-    "referencia": "IMB223",
-    "bairro": "Monte Alegre",
-    "cidade": "Camboriú",
-    "uf": "SC",
-    "preco": 796000,
-    "precoTexto": "R$ 796.000,00",
-    "descricao": "Este empreendimento mescla um acabamento primorosa, com um projeto totalmente pensando empara suprir as necessidades de sua família. Com localização privilegiada na Av. Marginal Oeste em , Camboriú este Home Club proporciona facilidade de acesso à comércios universidades e shopping center.",
-    "observacao": null,
-    "suites": 1,
-    "dormitorios": 1,
-    "banheiros": 2,
-    "vagas": 1,
-    "areaPrivativa": 66.83,
-    "detalhes": [
-      {
-        "nome": "Suítes",
-        "valor": "1"
-      },
-      {
-        "nome": "Dormitórios",
-        "valor": "1"
-      },
-      {
-        "nome": "Total de Banheiros",
-        "valor": "2"
-      },
-      {
-        "nome": "Living",
-        "valor": null
-      },
-      {
-        "nome": "Cozinha",
-        "valor": null
-      },
-      {
-        "nome": "Área de Serviço",
-        "valor": null
-      },
-      {
-        "nome": "Energia",
-        "valor": "220"
-      },
-      {
-        "nome": "Sacada",
-        "valor": "C/ Churrasqueira"
-      },
-      {
-        "nome": "Churrasqueira",
-        "valor": null
-      },
-      {
-        "nome": "Total de garagens",
-        "valor": "1"
-      },
-      {
-        "nome": "Garagem",
-        "valor": "1 Vaga (Privativa)"
-      },
-      {
-        "nome": "Infraestrutura p/ ar condicionado",
-        "valor": null
-      },
-      {
-        "nome": "Acabamento em gesso",
-        "valor": null
-      },
-      {
-        "nome": "Área Útil (Privativa) (m²)",
-        "valor": "66,83"
-      },
-      {
-        "nome": "Área Garagens (m²)",
-        "valor": "12,5"
-      },
-      {
-        "nome": "Previsão de entrega",
-        "valor": "24  25  26"
-      }
-    ],
-    "lazer": [
-      "Piscina Infantil",
-      "Piscina",
-      "Churrasqueira",
-      "Espaço Gourmet",
-      "Salão de festas: 1",
-      "Academia",
-      "Sala de Jogos",
-      "Espaço Kids",
-      "Brinquedoteca",
-      "Fire Place",
-      "Elevador: 4 por torre",
-      "Bicicletário",
-      "Portaria 24Hs"
-    ],
-    "outros": {},
-    "lat": -26.9970962,
-    "lng": -48.6545035,
-    "cep": "88337-335",
-    "fotosOrigem": [
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/156386/1600/1600/90/163120994933046750.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/156386/1600/1600/90/1631209948497369986.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/156386/1600/1600/90/1631209951686775220.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/156386/1600/1600/90/1631209950842119238.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/156386/1600/1600/90/1631209948189908312.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/156386/1600/1600/90/1631209948888795744.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/156386/1600/1600/90/1631209950139108349.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/156386/1600/1600/90/1631209950531124580.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/156386/1600/1600/90/1631209952257326979.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/156386/1600/1600/90/1631209950740706753.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/156386/1600/1600/90/1631209948302031972.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/156386/1600/1600/90/1631209948602030785.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/156386/1600/1600/90/163120995163730396.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/156386/1600/1600/90/1631209951713133282.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/156386/1600/1600/90/1631209952567005877.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/156386/1600/1600/90/1631209951795316668.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/156386/1600/1600/90/1631209951324182483.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/156386/1600/1600/90/1631209950673117014.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/156386/1600/1600/90/1631209950604821837.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/156386/1600/1600/90/1631209949803273617.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/156386/1600/1600/90/16312099513187402.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/156386/1600/1600/90/163120994922106364.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/156386/1600/1600/90/1631209949155618739.jpg"
     ]
   },
   {
@@ -10564,6 +10564,158 @@
       "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/183894/1600/1600/90/1777299493931814.jpg",
       "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/183894/1600/1600/90/1777299493688023.jpg",
       "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/183894/1600/1600/90/1777299493256930.jpg"
+    ]
+  },
+  {
+    "id": "193096",
+    "slug": "edificio-lumiere",
+    "status": "pronto",
+    "categoriasOrigem": [
+      "venda"
+    ],
+    "titulo": "Edifício Lumiere",
+    "referencia": "IMB394",
+    "bairro": "Meia Praia",
+    "cidade": "Itapema",
+    "uf": "SC",
+    "preco": 9800000,
+    "precoTexto": "R$ 9.800.000,00",
+    "descricao": "+ Suítes Master: [1]\r\n + Suítes: [3]\r\n Banheira (suíte): [Hidromassagem]\r\n Lavabo: [1]\r\n Sala de Jantar\r\n Closet: [1]\r\n Living\r\n Cozinha\r\n Sala de Estar\r\n Área de Serviço\r\n Espaço Gourmet\r\n Sacada: [C/ Churrasqueira]\r\n Total de garagens *: [3]\r\n Gás individual\r\n Hidrômetro individual\r\n Infraestrutura p/ água quente\r\n Infraestrutura p/ ar condicionado\r\n Piso porcelanato\r\n Acabamento em gesso\r\n Área Útil (Privativa) (m²) *: [190]",
+    "observacao": null,
+    "suites": 1,
+    "dormitorios": null,
+    "banheiros": null,
+    "vagas": 3,
+    "areaPrivativa": 190,
+    "detalhes": [
+      {
+        "nome": "Suítes Master",
+        "valor": "1"
+      },
+      {
+        "nome": "Suítes",
+        "valor": "3"
+      },
+      {
+        "nome": "Banheira (suíte)",
+        "valor": "Hidromassagem"
+      },
+      {
+        "nome": "Lavabo",
+        "valor": "1"
+      },
+      {
+        "nome": "Sala de Jantar",
+        "valor": null
+      },
+      {
+        "nome": "Closet",
+        "valor": "1"
+      },
+      {
+        "nome": "Living",
+        "valor": null
+      },
+      {
+        "nome": "Cozinha",
+        "valor": null
+      },
+      {
+        "nome": "Sala de Estar",
+        "valor": null
+      },
+      {
+        "nome": "Área de Serviço",
+        "valor": null
+      },
+      {
+        "nome": "Espaço Gourmet",
+        "valor": null
+      },
+      {
+        "nome": "Sacada",
+        "valor": "C/ Churrasqueira"
+      },
+      {
+        "nome": "Total de garagens",
+        "valor": "3"
+      },
+      {
+        "nome": "Gás individual",
+        "valor": null
+      },
+      {
+        "nome": "Hidrômetro individual",
+        "valor": null
+      },
+      {
+        "nome": "Infraestrutura p/ água quente",
+        "valor": null
+      },
+      {
+        "nome": "Infraestrutura p/ ar condicionado",
+        "valor": null
+      },
+      {
+        "nome": "Piso porcelanato",
+        "valor": null
+      },
+      {
+        "nome": "Acabamento em gesso",
+        "valor": null
+      },
+      {
+        "nome": "Área Útil (Privativa) (m²)",
+        "valor": "190"
+      }
+    ],
+    "lazer": [
+      "Piscina Infantil: Aquecida",
+      "Piscina: Aquecida",
+      "Espaço Gourmet",
+      "Salão de festas: 1",
+      "Sauna",
+      "Academia",
+      "Sala de Jogos",
+      "Brinquedoteca",
+      "Playground",
+      "Sala de Massagem",
+      "Hidromassagem",
+      "SPA",
+      "Lounge",
+      "Hobby box",
+      "Game Room",
+      "Espaço Yoga e Pilates",
+      "Área para Banhista",
+      "Elevador: 3",
+      "Bicicletário",
+      "Porteiro eletrônico",
+      "Guarita de segurança",
+      "Heliponto"
+    ],
+    "outros": {},
+    "lat": -27.0965505,
+    "lng": -48.6164234,
+    "cep": "88220-000",
+    "fotosOrigem": [
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/183951/1600/1600/90/1778247127462709.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/183951/1600/1600/90/1778247128603132.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/183951/1600/1600/90/1778247128136043.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/183951/1600/1600/90/1778247127514781.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/183951/1600/1600/90/1778247153164112.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/183951/1600/1600/90/1778247127875640.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/183951/1600/1600/90/1778247163564730.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/183951/1600/1600/90/1778247162886290.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/183951/1600/1600/90/1778247162460184.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/183951/1600/1600/90/1778247164937447.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/183951/1600/1600/90/1778247164232921.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/183951/1600/1600/90/1778247163637479.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/183951/1600/1600/90/1778247104701460.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/183951/1600/1600/90/1778247103619738.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/183951/1600/1600/90/1778247099500330.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/183951/1600/1600/90/1778247101407220.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/183951/1600/1600/90/1778247104330813.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/183951/1600/1600/90/1778247156875599.jpg"
     ]
   },
   {
@@ -18222,6 +18374,107 @@
       "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184741/1600/1600/90/1789668971952446.jpg",
       "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184741/1600/1600/90/1789668971665129.jpg",
       "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184741/1600/1600/90/1789668971325931.jpg"
+    ]
+  },
+  {
+    "id": "194299",
+    "slug": "garden-view-residence",
+    "status": "pronto",
+    "categoriasOrigem": [
+      "venda"
+    ],
+    "titulo": "Garden View Residence",
+    "referencia": "IMB483",
+    "bairro": "Morretes",
+    "cidade": "Itapema",
+    "uf": "SC",
+    "preco": 3800,
+    "precoTexto": "R$ 3.800,00",
+    "descricao": "+ Suítes: [2]\r\n Lavabo: [1]\r\n Total de Banheiros *: [2]\r\n Living\r\n Cozinha\r\n Área de Serviço\r\n Churrasqueira\r\n Garagem *: [1 Vaga (Privativa)]\r\n Área Útil (Privativa) (m²) *: [70]",
+    "observacao": null,
+    "suites": 2,
+    "dormitorios": null,
+    "banheiros": 2,
+    "vagas": 1,
+    "areaPrivativa": 70,
+    "detalhes": [
+      {
+        "nome": "Suítes",
+        "valor": "2"
+      },
+      {
+        "nome": "Lavabo",
+        "valor": "1"
+      },
+      {
+        "nome": "Total de Banheiros",
+        "valor": "2"
+      },
+      {
+        "nome": "Living",
+        "valor": null
+      },
+      {
+        "nome": "Cozinha",
+        "valor": null
+      },
+      {
+        "nome": "Área de Serviço",
+        "valor": null
+      },
+      {
+        "nome": "Churrasqueira",
+        "valor": null
+      },
+      {
+        "nome": "Garagem",
+        "valor": "1 Vaga (Privativa)"
+      },
+      {
+        "nome": "Área Útil (Privativa) (m²)",
+        "valor": "70"
+      }
+    ],
+    "lazer": [
+      "Piscina Infantil",
+      "Piscina",
+      "Espaço Gourmet",
+      "Salão de festas: 1",
+      "Academia",
+      "Sala de Jogos",
+      "Brinquedoteca",
+      "Elevador: 2"
+    ],
+    "outros": {},
+    "lat": -27.1159438379,
+    "lng": -48.6153202057,
+    "cep": "88220-000",
+    "fotosOrigem": [
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185099/1600/1600/90/1794514942174676.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185099/1600/1600/90/1794514941728022.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185099/1600/1600/90/1794514953130846.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185099/1600/1600/90/1794514959119024.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185099/1600/1600/90/1794514945222367.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185099/1600/1600/90/1794514936167582.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185099/1600/1600/90/1794514956673574.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185099/1600/1600/90/1794514958261244.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185099/1600/1600/90/1794514950864622.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185099/1600/1600/90/1794514944686799.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185099/1600/1600/90/1794514966292450.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185099/1600/1600/90/1794514963446327.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185099/1600/1600/90/1794514945292786.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185099/1600/1600/90/1794514947525194.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185099/1600/1600/90/1794514940277513.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185099/1600/1600/90/1794514943600906.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185099/1600/1600/90/1794514950754481.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185099/1600/1600/90/1794514942485725.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185099/1600/1600/90/1794514937700928.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185099/1600/1600/90/1794514938620887.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185099/1600/1600/90/1794514935746451.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185099/1600/1600/90/1794514963711107.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185099/1600/1600/90/1794514948975191.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185099/1600/1600/90/1794514954426792.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185099/1600/1600/90/1794514956659602.jpg"
     ]
   },
   {
