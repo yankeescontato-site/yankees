@@ -14273,6 +14273,84 @@
     ]
   },
   {
+    "id": "194238",
+    "slug": "grand-mistral",
+    "status": "pronto",
+    "categoriasOrigem": [
+      "venda"
+    ],
+    "titulo": "Grand Mistral",
+    "referencia": "IMB479",
+    "bairro": "Meia Praia",
+    "cidade": "Itapema",
+    "uf": "SC",
+    "preco": 3490000,
+    "precoTexto": "R$ 3.490.000,00",
+    "descricao": "+ Suítes: [4]\r\n Total de Banheiros *: [4]\r\n Área Útil (Privativa) (m²) *: [172]",
+    "observacao": null,
+    "suites": 4,
+    "dormitorios": null,
+    "banheiros": 4,
+    "vagas": null,
+    "areaPrivativa": 172,
+    "detalhes": [
+      {
+        "nome": "Suítes",
+        "valor": "4"
+      },
+      {
+        "nome": "Total de Banheiros",
+        "valor": "4"
+      },
+      {
+        "nome": "Área Útil (Privativa) (m²)",
+        "valor": "172"
+      }
+    ],
+    "lazer": [
+      "Piscina: Coberta e Aquecida",
+      "Piscina Infantil",
+      "Espaço Gourmet",
+      "Academia",
+      "Sauna",
+      "Playground",
+      "SPA",
+      "Quadras Bocha",
+      "Jardim",
+      "Mini quadra infantil",
+      "Guarita de segurança"
+    ],
+    "outros": {},
+    "lat": -27.1266145,
+    "lng": -48.6042597,
+    "cep": "88220-000",
+    "fotosOrigem": [
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185039/1600/1600/90/1794665723562651.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185039/1600/1600/90/1794665720514275.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185039/1600/1600/90/1794665722341240.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185039/1600/1600/90/1794665718576848.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185039/1600/1600/90/1794665718418725.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185039/1600/1600/90/1794665722352468.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185039/1600/1600/90/1794665723268093.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185039/1600/1600/90/1794665724891208.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185039/1600/1600/90/1794665719420179.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185039/1600/1600/90/1794665721789444.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185039/1600/1600/90/1794665721631532.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185039/1600/1600/90/1794665720226540.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185039/1600/1600/90/1794665720863627.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185039/1600/1600/90/1794665724338825.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185039/1600/1600/90/1794665724462072.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185039/1600/1600/90/1794665720631632.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185039/1600/1600/90/1794665721408749.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185039/1600/1600/90/1794665718860838.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185039/1600/1600/90/1794665719816105.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185039/1600/1600/90/1794665723311960.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185039/1600/1600/90/1794665721872274.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185039/1600/1600/90/1794665724647393.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185039/1600/1600/90/1794665723171844.jpg"
+    ]
+  },
+  {
     "id": "192508",
     "slug": "residencial-obelisco-apto-401",
     "status": "pronto",
@@ -17554,6 +17632,92 @@
       "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184214/1600/1600/90/1782741692565318.jpg",
       "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184214/1600/1600/90/1782741721343072.jpg",
       "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184214/1600/1600/90/1782741690256559.jpg"
+    ]
+  },
+  {
+    "id": "194239",
+    "slug": "edificio-reality",
+    "status": "pronto",
+    "categoriasOrigem": [
+      "venda"
+    ],
+    "titulo": "Edifício Reality",
+    "referencia": "IMB480",
+    "bairro": "Meia Praia",
+    "cidade": "Itapema",
+    "uf": "SC",
+    "preco": 1297000,
+    "precoTexto": "R$ 1.297.000,00",
+    "descricao": "+ Suítes: [2]\r\n Total de Banheiros *: [2]\r\n Lavabo: [1]\r\n Sala de Estar\r\n Cozinha\r\n Mobilia: [Mobiliado]\r\n Sacada: [C/ Churrasqueira]\r\n Garagem *: [1 Vaga (Privativa)]\r\n Detalhes das garagens: [térreo]\r\n Área Útil (Privativa) (m²) *: [80,66]",
+    "observacao": null,
+    "suites": 2,
+    "dormitorios": null,
+    "banheiros": 2,
+    "vagas": 1,
+    "areaPrivativa": 80.66,
+    "detalhes": [
+      {
+        "nome": "Suítes",
+        "valor": "2"
+      },
+      {
+        "nome": "Total de Banheiros",
+        "valor": "2"
+      },
+      {
+        "nome": "Lavabo",
+        "valor": "1"
+      },
+      {
+        "nome": "Sala de Estar",
+        "valor": null
+      },
+      {
+        "nome": "Cozinha",
+        "valor": null
+      },
+      {
+        "nome": "Mobilia",
+        "valor": "Mobiliado"
+      },
+      {
+        "nome": "Sacada",
+        "valor": "C/ Churrasqueira"
+      },
+      {
+        "nome": "Garagem",
+        "valor": "1 Vaga (Privativa)"
+      },
+      {
+        "nome": "Detalhes das garagens",
+        "valor": "térreo"
+      },
+      {
+        "nome": "Área Útil (Privativa) (m²)",
+        "valor": "80,66"
+      }
+    ],
+    "lazer": [
+      "Piscina",
+      "Salão de festas: 1"
+    ],
+    "outros": {},
+    "lat": -27.1346725,
+    "lng": -48.6005274,
+    "cep": "88220-000",
+    "fotosOrigem": [
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185040/1600/1600/90/1794665227744724.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185040/1600/1600/90/1794665231562930.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185040/1600/1600/90/1794665231444213.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185040/1600/1600/90/1794665231290426.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185040/1600/1600/90/1794665231398870.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185040/1600/1600/90/1794665228161019.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185040/1600/1600/90/1794665230684649.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185040/1600/1600/90/1794665230637874.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185040/1600/1600/90/1794665230856825.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185040/1600/1600/90/1794665228979118.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185040/1600/1600/90/1794665229225157.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/185040/1600/1600/90/1794665227937478.jpg"
     ]
   },
   {
