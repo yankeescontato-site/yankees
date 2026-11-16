@@ -895,8 +895,8 @@
     "bairro": "Centro",
     "cidade": "Itapema",
     "uf": "SC",
-    "preco": 18527000,
-    "precoTexto": "R$ 18.527.000,00",
+    "preco": 18994000,
+    "precoTexto": "R$ 18.994.000,00",
     "descricao": "+ Suítes Master: [1]\r\n + Suítes: [3]\r\n Banheira (suíte): [Comum (Vitoriana)]\r\n Lavabo: [1]\r\n Total de Banheiros *: [5]\r\n Sala de Jantar\r\n Living\r\n Cozinha\r\n Sala de Estar\r\n Área de Serviço\r\n Energia: [220]\r\n Espaço Gourmet\r\n Área Extra: [Terraço]\r\n Churrasqueira\r\n Total de garagens *: [5]\r\n Garagem *: [5 Vagas]\r\n Fechadura eletrônica na porta de entrada\r\n Infraestrutura p/ água quente\r\n Infraestrutura p/ ar condicionado\r\n Piso porcelanato\r\n Acabamento em gesso\r\n Área Útil (Privativa) (m²) *: [320]",
     "observacao": null,
     "suites": 1,
@@ -1381,8 +1381,8 @@
     "bairro": "Meia Praia",
     "cidade": "Itapema",
     "uf": "SC",
-    "preco": 14174484.7,
-    "precoTexto": "R$ 14.174.484,70",
+    "preco": 14380275.33,
+    "precoTexto": "R$ 14.380.275,33",
     "descricao": "Lançamento exclusivo que reúne sofisticação, conforto e uma das vistas mais desejadas de Itapema. O apartamento possui 265 m² de área privativa com cada detalhe pensado para oferecer funcionalidade, conforto e sofisticação.\n\r\nO empreendimento é um verdadeiro Home Club de frente para o mar, proporcionando uma experiência completa. A área de lazer é composta por academia com pé-direito duplo e vista privilegiada da praia, piscinas adulto com borda infinita, infantil e térmica, espaço gourmet, playground, sala de jogos, spa, sauna, hidromassagem e muito mais. O prédio ainda conta com um estacionamento inteligente que garante comodidade e eficiência. \n\r\nUm endereço único para quem busca exclusividade, qualidade de vida e o prazer de viver frente ao mar em Itapema.",
     "observacao": null,
     "suites": 1,
@@ -3007,8 +3007,8 @@
     "bairro": "Centro",
     "cidade": "Itapema",
     "uf": "SC",
-    "preco": 4080000,
-    "precoTexto": "R$ 4.080.000,00",
+    "preco": 4285000,
+    "precoTexto": "R$ 4.285.000,00",
     "descricao": "Este apartamento possui 4 suítes elegantes e uma vista de tirar o fôlego além de 3 vagas de garagem. Com uma área de lazer no 7 andar e uma área dupla no rooftop há espaço de sobra para relaxar e se divertir com amigos e familiares. O design moderno e sofisticado do apartamento oferece uma atmosfera acolhedora e aconchegante para desfrutar de momentos especiais.",
     "observacao": null,
     "suites": 4,
@@ -4002,8 +4002,8 @@
     "bairro": "Centro",
     "cidade": "Itapema",
     "uf": "SC",
-    "preco": 3343000,
-    "precoTexto": "R$ 3.343.000,00",
+    "preco": 3430000,
+    "precoTexto": "R$ 3.430.000,00",
     "descricao": "O ERA nasce para ser um marco em Itapema. Inspirado nas curvas de uma embarcação, sua arquitetura aerodinâmica e linhas orgânicas trazem a sensação de sofisticação em movimento, um design internacional já reconhecido com premiações em três grandes concursos mundiais que avaliam inovação, qualidade, sustentabilidade e localização privilegiada.\n\nO projeto foi pensado para surpreender, transformando o cotidiano em uma experiência singular. Cada detalhe traz modernidade e exclusividade, seja no visual da fachada ou nos espaços criados para conectar pessoas e proporcionar bem-estar. A área de lazer é um verdadeiro refúgio urbano, com piscinas e lounges, espaços gourmet, academia, spa, brinquedoteca e ambientes que unem elegância e descontração de forma impecável.",
     "observacao": null,
     "suites": 3,
@@ -5264,8 +5264,8 @@
     "bairro": "Meia Praia",
     "cidade": "Itapema",
     "uf": "SC",
-    "preco": 2942909.11,
-    "precoTexto": "R$ 2.942.909,11",
+    "preco": 3000728,
+    "precoTexto": "R$ 3.000.728,00",
     "descricao": "+ Suítes: [3]\r\n Banheira (suíte): [Hidromassagem]\r\n Lavabo: [1]\r\n Total de Banheiros *: [4]\r\n Sala de Jantar\r\n Closet: [1]\r\n Living\r\n Cozinha\r\n Sala de Estar\r\n Área de Serviço\r\n Varanda\r\n Espaço Gourmet\r\n Sacada: [C/ Churrasqueira]\r\n Churrasqueira\r\n Total de garagens *: [2]\r\n Garagem *: [2 Vagas (Privativa)]\r\n Fechadura eletrônica na porta de entrada\r\n Gás individual\r\n Hidrômetro individual\r\n Infraestrutura p/ água quente\r\n Infraestrutura p/ ar condicionado\r\n Piso porcelanato\r\n Acabamento em gesso\r\n Área Útil (Privativa) (m²) *: [151]\r\n Área Total (m²): [259]\r\n Tipo de Piso: [Vinilico Área Intima]\r\n Posição: [Frente Leste]\r\n Apartamento de: [Frente]\r\n N. da Incorporação: [76.333]\r\n Previsão de entrega: [Dez/2028]",
     "observacao": null,
     "suites": 3,
@@ -5753,150 +5753,6 @@
     ]
   },
   {
-    "id": "193915",
-    "slug": "gran-mistral-residence",
-    "status": "lancamento",
-    "categoriasOrigem": [
-      "lancamento",
-      "venda"
-    ],
-    "titulo": "Gran Mistral Residence",
-    "referencia": "IMB472",
-    "bairro": "Meia Praia",
-    "cidade": "Itapema",
-    "uf": "SC",
-    "preco": 2600000,
-    "precoTexto": "R$ 2.600.000,00",
-    "descricao": "+ Suítes: [3]\r\n Lavabo: [1]\r\n Total de Banheiros *: [3]\r\n Sala de Jantar\r\n Living\r\n Cozinha\r\n Sala de Estar\r\n Área de Serviço\r\n Espaço Gourmet\r\n Total de garagens *: [2]\r\n Hidrômetro individual\r\n Infraestrutura p/ água quente\r\n Infraestrutura p/ ar condicionado\r\n Piso porcelanato\r\n Acabamento em gesso\r\n Área Útil (Privativa) (m²) *: [140]",
-    "observacao": null,
-    "suites": 3,
-    "dormitorios": null,
-    "banheiros": 3,
-    "vagas": 2,
-    "areaPrivativa": 140,
-    "detalhes": [
-      {
-        "nome": "Suítes",
-        "valor": "3"
-      },
-      {
-        "nome": "Lavabo",
-        "valor": "1"
-      },
-      {
-        "nome": "Total de Banheiros",
-        "valor": "3"
-      },
-      {
-        "nome": "Sala de Jantar",
-        "valor": null
-      },
-      {
-        "nome": "Living",
-        "valor": null
-      },
-      {
-        "nome": "Cozinha",
-        "valor": null
-      },
-      {
-        "nome": "Sala de Estar",
-        "valor": null
-      },
-      {
-        "nome": "Área de Serviço",
-        "valor": null
-      },
-      {
-        "nome": "Espaço Gourmet",
-        "valor": null
-      },
-      {
-        "nome": "Total de garagens",
-        "valor": "2"
-      },
-      {
-        "nome": "Hidrômetro individual",
-        "valor": null
-      },
-      {
-        "nome": "Infraestrutura p/ água quente",
-        "valor": null
-      },
-      {
-        "nome": "Infraestrutura p/ ar condicionado",
-        "valor": null
-      },
-      {
-        "nome": "Piso porcelanato",
-        "valor": null
-      },
-      {
-        "nome": "Acabamento em gesso",
-        "valor": null
-      },
-      {
-        "nome": "Área Útil (Privativa) (m²)",
-        "valor": "140"
-      }
-    ],
-    "lazer": [
-      "Piscina Infantil: Aquecida",
-      "Piscina: Aquecida",
-      "Quiosque",
-      "Espaço Gourmet",
-      "Salão de festas: 1",
-      "Sauna",
-      "Academia",
-      "Sala de Jogos",
-      "Brinquedoteca",
-      "Playground",
-      "Hidromassagem",
-      "SPA",
-      "Quadras Bocha",
-      "Quadra esportiva",
-      "Lounge",
-      "Hobby box",
-      "Game Room",
-      "Área para Banhista",
-      "Elevador: 3",
-      "Bicicletário",
-      "Portaria 24Hs",
-      "Guarita de segurança",
-      "Heliponto"
-    ],
-    "outros": {},
-    "lat": -27.1269667,
-    "lng": -48.6047,
-    "cep": "88220-000",
-    "fotosOrigem": [
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184724/1600/1600/90/1789491619198923.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184724/1600/1600/90/1789491622542585.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184724/1600/1600/90/1789491616139695.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184724/1600/1600/90/1789491617678594.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184724/1600/1600/90/1789491618910585.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184724/1600/1600/90/1789491615638630.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184724/1600/1600/90/1789491620478333.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184724/1600/1600/90/1789491619988648.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184724/1600/1600/90/1789491616876501.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184724/1600/1600/90/1789491620787084.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184724/1600/1600/90/1789491619164860.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184724/1600/1600/90/1789491620183955.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184724/1600/1600/90/1789491617613761.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184724/1600/1600/90/1789491622272711.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184724/1600/1600/90/1789491616743624.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184724/1600/1600/90/1789491623366404.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184724/1600/1600/90/1789491623579088.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184724/1600/1600/90/1789491621650563.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184724/1600/1600/90/1789491621130303.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184724/1600/1600/90/1789491615119333.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184724/1600/1600/90/1789491623262391.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184724/1600/1600/90/1789491621514028.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184724/1600/1600/90/1789665170286210.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184724/1600/1600/90/1789665170319156.jpg"
-    ]
-  },
-  {
     "id": "164252",
     "slug": "edificio-ilhas-baleares-home",
     "status": "lancamento",
@@ -5909,8 +5765,8 @@
     "bairro": "Centro",
     "cidade": "Itapema",
     "uf": "SC",
-    "preco": 2583452.71,
-    "precoTexto": "R$ 2.583.452,71",
+    "preco": 2634209.41,
+    "precoTexto": "R$ 2.634.209,41",
     "descricao": "Com 3 suítes, uma vista incrível do mar e muito bem localizado esse empreendimento entrega o conforto a comodidade e o lazer que a sua família merece. Próximo aos principais pontos da cidade. Venha desfrutar das belas praias de Itapema com a sua família.\n\r\nEntre em contato e venha conquistar o seu sonho.",
     "observacao": null,
     "suites": 3,
@@ -6057,6 +5913,150 @@
       "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/157267/1600/1600/90/1633528292524217357.jpg",
       "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/157267/1600/1600/90/163352829266337281.jpg",
       "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/157267/1600/1600/90/1633528292228811209.jpg"
+    ]
+  },
+  {
+    "id": "193915",
+    "slug": "gran-mistral-residence",
+    "status": "lancamento",
+    "categoriasOrigem": [
+      "lancamento",
+      "venda"
+    ],
+    "titulo": "Gran Mistral Residence",
+    "referencia": "IMB472",
+    "bairro": "Meia Praia",
+    "cidade": "Itapema",
+    "uf": "SC",
+    "preco": 2600000,
+    "precoTexto": "R$ 2.600.000,00",
+    "descricao": "+ Suítes: [3]\r\n Lavabo: [1]\r\n Total de Banheiros *: [3]\r\n Sala de Jantar\r\n Living\r\n Cozinha\r\n Sala de Estar\r\n Área de Serviço\r\n Espaço Gourmet\r\n Total de garagens *: [2]\r\n Hidrômetro individual\r\n Infraestrutura p/ água quente\r\n Infraestrutura p/ ar condicionado\r\n Piso porcelanato\r\n Acabamento em gesso\r\n Área Útil (Privativa) (m²) *: [140]",
+    "observacao": null,
+    "suites": 3,
+    "dormitorios": null,
+    "banheiros": 3,
+    "vagas": 2,
+    "areaPrivativa": 140,
+    "detalhes": [
+      {
+        "nome": "Suítes",
+        "valor": "3"
+      },
+      {
+        "nome": "Lavabo",
+        "valor": "1"
+      },
+      {
+        "nome": "Total de Banheiros",
+        "valor": "3"
+      },
+      {
+        "nome": "Sala de Jantar",
+        "valor": null
+      },
+      {
+        "nome": "Living",
+        "valor": null
+      },
+      {
+        "nome": "Cozinha",
+        "valor": null
+      },
+      {
+        "nome": "Sala de Estar",
+        "valor": null
+      },
+      {
+        "nome": "Área de Serviço",
+        "valor": null
+      },
+      {
+        "nome": "Espaço Gourmet",
+        "valor": null
+      },
+      {
+        "nome": "Total de garagens",
+        "valor": "2"
+      },
+      {
+        "nome": "Hidrômetro individual",
+        "valor": null
+      },
+      {
+        "nome": "Infraestrutura p/ água quente",
+        "valor": null
+      },
+      {
+        "nome": "Infraestrutura p/ ar condicionado",
+        "valor": null
+      },
+      {
+        "nome": "Piso porcelanato",
+        "valor": null
+      },
+      {
+        "nome": "Acabamento em gesso",
+        "valor": null
+      },
+      {
+        "nome": "Área Útil (Privativa) (m²)",
+        "valor": "140"
+      }
+    ],
+    "lazer": [
+      "Piscina Infantil: Aquecida",
+      "Piscina: Aquecida",
+      "Quiosque",
+      "Espaço Gourmet",
+      "Salão de festas: 1",
+      "Sauna",
+      "Academia",
+      "Sala de Jogos",
+      "Brinquedoteca",
+      "Playground",
+      "Hidromassagem",
+      "SPA",
+      "Quadras Bocha",
+      "Quadra esportiva",
+      "Lounge",
+      "Hobby box",
+      "Game Room",
+      "Área para Banhista",
+      "Elevador: 3",
+      "Bicicletário",
+      "Portaria 24Hs",
+      "Guarita de segurança",
+      "Heliponto"
+    ],
+    "outros": {},
+    "lat": -27.1269667,
+    "lng": -48.6047,
+    "cep": "88220-000",
+    "fotosOrigem": [
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184724/1600/1600/90/1789491619198923.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184724/1600/1600/90/1789491622542585.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184724/1600/1600/90/1789491616139695.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184724/1600/1600/90/1789491617678594.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184724/1600/1600/90/1789491618910585.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184724/1600/1600/90/1789491615638630.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184724/1600/1600/90/1789491620478333.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184724/1600/1600/90/1789491619988648.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184724/1600/1600/90/1789491616876501.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184724/1600/1600/90/1789491620787084.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184724/1600/1600/90/1789491619164860.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184724/1600/1600/90/1789491620183955.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184724/1600/1600/90/1789491617613761.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184724/1600/1600/90/1789491622272711.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184724/1600/1600/90/1789491616743624.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184724/1600/1600/90/1789491623366404.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184724/1600/1600/90/1789491623579088.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184724/1600/1600/90/1789491621650563.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184724/1600/1600/90/1789491621130303.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184724/1600/1600/90/1789491615119333.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184724/1600/1600/90/1789491623262391.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184724/1600/1600/90/1789491621514028.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184724/1600/1600/90/1789665170286210.jpg",
+      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184724/1600/1600/90/1789665170319156.jpg"
     ]
   },
   {
@@ -6212,8 +6212,8 @@
     "bairro": "Meia Praia",
     "cidade": "Itapema",
     "uf": "SC",
-    "preco": 2434863.6,
-    "precoTexto": "R$ 2.434.863,60",
+    "preco": 2482701,
+    "precoTexto": "R$ 2.482.701,00",
     "descricao": "Maravilhoso empreendimento com 3 suítes, localizado no centro da meia praia em Itapema, próximo aos maiores e melhores comércios da região, você pode desfrutar do conforto e mobilidade da cidade maravilhosa de Itapema, o imóvel dispõem de um lazer de mais de 2.300 m². Com piscinas academias salões de festas.",
     "observacao": null,
     "suites": 3,
@@ -8773,136 +8773,6 @@
     ]
   },
   {
-    "id": "168195",
-    "slug": "chateau-valence-residence",
-    "status": "lancamento",
-    "categoriasOrigem": [
-      "lancamento",
-      "venda"
-    ],
-    "titulo": "Chateau Valence Residence",
-    "referencia": "IMB247",
-    "bairro": "Morretes",
-    "cidade": "Itapema",
-    "uf": "SC",
-    "preco": 986683.4,
-    "precoTexto": "R$ 986.683,40",
-    "descricao": "Belíssimo empreendimento localizado no bairro morretes, ótima oportunidade de investimento e moradia, além de estar na cidade que mais valoriza no pais, você ainda desfruta da maravilhosa cidade de Itapema e suas belas praias.",
-    "observacao": null,
-    "suites": 2,
-    "dormitorios": null,
-    "banheiros": 3,
-    "vagas": 1,
-    "areaPrivativa": 69,
-    "detalhes": [
-      {
-        "nome": "Suítes",
-        "valor": "2"
-      },
-      {
-        "nome": "Total de Banheiros",
-        "valor": "3"
-      },
-      {
-        "nome": "Living",
-        "valor": null
-      },
-      {
-        "nome": "Cozinha",
-        "valor": null
-      },
-      {
-        "nome": "Área de Serviço",
-        "valor": null
-      },
-      {
-        "nome": "Energia",
-        "valor": "220"
-      },
-      {
-        "nome": "Sacada",
-        "valor": "C/ Churrasqueira"
-      },
-      {
-        "nome": "Churrasqueira",
-        "valor": null
-      },
-      {
-        "nome": "Total de garagens",
-        "valor": "1"
-      },
-      {
-        "nome": "Garagem",
-        "valor": "1 Vaga (Privativa)"
-      },
-      {
-        "nome": "Gás individual",
-        "valor": null
-      },
-      {
-        "nome": "Hidrômetro individual",
-        "valor": null
-      },
-      {
-        "nome": "Infraestrutura p/ água quente",
-        "valor": null
-      },
-      {
-        "nome": "Infraestrutura p/ ar condicionado",
-        "valor": null
-      },
-      {
-        "nome": "Piso porcelanato",
-        "valor": null
-      },
-      {
-        "nome": "Acabamento em gesso",
-        "valor": null
-      },
-      {
-        "nome": "Área Útil (Privativa) (m²)",
-        "valor": "69"
-      }
-    ],
-    "lazer": [
-      "Piscina Infantil",
-      "Piscina",
-      "Churrasqueira",
-      "Espaço Gourmet",
-      "Salão de festas: 1",
-      "Academia",
-      "Sala de Jogos",
-      "Espaço Kids",
-      "Brinquedoteca",
-      "Playground",
-      "Fire Place",
-      "Elevador: 2",
-      "Condomínio: Vertical Fechado",
-      "Sensores de presença nas áreas comuns"
-    ],
-    "outros": {},
-    "lat": -27.1178784058,
-    "lng": -48.6117613902,
-    "cep": "88220-000",
-    "fotosOrigem": [
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/160197/1600/1600/90/1646939795482521351.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/160197/1600/1600/90/164693979980519573.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/160197/1600/1600/90/1646939790623396526.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/160197/1600/1600/90/1646939787936057099.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/160197/1600/1600/90/1646939786964793939.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/160197/1600/1600/90/164693978876312546.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/160197/1600/1600/90/1646939789644083207.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/160197/1600/1600/90/1646939792397980336.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/160197/1600/1600/90/1646939795132137280.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/160197/1600/1600/90/164693979786316488.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/160197/1600/1600/90/1646939799878658737.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/160197/1600/1600/90/1646939796505423800.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/160197/1600/1600/90/1646939798464168727.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/160197/1600/1600/90/1646939793583112231.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/160197/1600/1600/90/1646939791592704202.jpg"
-    ]
-  },
-  {
     "id": "164806",
     "slug": "st-barth-home-club",
     "status": "lancamento",
@@ -9042,178 +8912,6 @@
       "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/157733/1600/1600/90/1637169038138533235.jpg",
       "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/157733/1600/1600/90/1637169036933864621.jpg",
       "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/157733/1600/1600/90/1637169035848673616.jpg"
-    ]
-  },
-  {
-    "id": "180255",
-    "slug": "edificio-la-terrasse",
-    "status": "lancamento",
-    "categoriasOrigem": [
-      "lancamento",
-      "venda"
-    ],
-    "titulo": "Edifício La Terrasse",
-    "referencia": "IMB267",
-    "bairro": "Centro",
-    "cidade": "Itapema",
-    "uf": "SC",
-    "preco": 960000,
-    "precoTexto": "R$ 960.000,00",
-    "descricao": "Situado no bairro Morretes, você estará a poucos metros da praia, permitindo que você desfrute do lazer do nosso litoral, além disso você conta com a proximidade da BR-101, que oferece fácil acesso a outras regiões da cidade e atrações próximas. \n\r\nÉ uma oportunidade imperdível para aqueles que procuram uma residência confortável, moderna e bem localizada. Seja para morar ou investir, esse empreendimento certamente oferecerá uma vida relaxante perto da praia.",
-    "observacao": null,
-    "suites": 1,
-    "dormitorios": 2,
-    "banheiros": 3,
-    "vagas": 2,
-    "areaPrivativa": 70,
-    "detalhes": [
-      {
-        "nome": "Suítes",
-        "valor": "1"
-      },
-      {
-        "nome": "Dormitórios",
-        "valor": "2"
-      },
-      {
-        "nome": "Lavabo",
-        "valor": "1"
-      },
-      {
-        "nome": "Total de Banheiros",
-        "valor": "3"
-      },
-      {
-        "nome": "Living",
-        "valor": null
-      },
-      {
-        "nome": "Cozinha",
-        "valor": null
-      },
-      {
-        "nome": "Sala de Estar",
-        "valor": null
-      },
-      {
-        "nome": "Área de Serviço",
-        "valor": null
-      },
-      {
-        "nome": "Energia",
-        "valor": "220"
-      },
-      {
-        "nome": "Sacada",
-        "valor": "C/ Churrasqueira"
-      },
-      {
-        "nome": "Churrasqueira",
-        "valor": null
-      },
-      {
-        "nome": "Total de garagens",
-        "valor": "2"
-      },
-      {
-        "nome": "Garagem",
-        "valor": "2 Vagas (Privativa)"
-      },
-      {
-        "nome": "Gás individual",
-        "valor": null
-      },
-      {
-        "nome": "Hidrômetro individual",
-        "valor": null
-      },
-      {
-        "nome": "Infraestrutura p/ água quente",
-        "valor": null
-      },
-      {
-        "nome": "Infraestrutura p/ ar condicionado",
-        "valor": null
-      },
-      {
-        "nome": "Piso porcelanato",
-        "valor": null
-      },
-      {
-        "nome": "Acabamento em gesso",
-        "valor": null
-      },
-      {
-        "nome": "Área Útil (Privativa) (m²)",
-        "valor": "70"
-      },
-      {
-        "nome": "Tipo de Piso",
-        "valor": "porcelanato"
-      },
-      {
-        "nome": "Tipo de Teto",
-        "valor": "Gesso"
-      },
-      {
-        "nome": "Posição",
-        "valor": "Frente Sul"
-      },
-      {
-        "nome": "Visão do Mar",
-        "valor": "Lateral"
-      },
-      {
-        "nome": "Tipo de Construção",
-        "valor": "Alvenaria"
-      }
-    ],
-    "lazer": [
-      "Piscina Infantil",
-      "Piscina: Aquecida",
-      "Quiosque",
-      "Fogão à Lenha",
-      "Churrasqueira",
-      "Espaço Gourmet",
-      "Salão de festas: 1",
-      "Academia",
-      "Sala de Jogos",
-      "Espaço Kids",
-      "Brinquedoteca",
-      "Playground",
-      "Área de descanso",
-      "Espaço Zen",
-      "Lounge",
-      "Boate (Pub)",
-      "Fire Place",
-      "Mesa de sinuca",
-      "Mesa de pebolim",
-      "Elevador: 2",
-      "Sensores de presença nas áreas comuns",
-      "Fachada pele de vidro"
-    ],
-    "outros": {},
-    "lat": -27.1221468217,
-    "lng": -48.6106343337,
-    "cep": "88220-000",
-    "fotosOrigem": [
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/171360/1600/1600/90/1687271743890416560.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/171360/1600/1600/90/168727174092567937.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/171360/1600/1600/90/1687271741602569812.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/171360/1600/1600/90/1687271753606199846.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/171360/1600/1600/90/1687271744458897399.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/171360/1600/1600/90/1687271745215336473.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/171360/1600/1600/90/1687271754619978953.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/171360/1600/1600/90/1687271734111250745.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/171360/1600/1600/90/1687271751520616281.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/171360/1600/1600/90/168727174793532888.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/171360/1600/1600/90/1687271748361420825.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/171360/1600/1600/90/1687271750188135114.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/171360/1600/1600/90/1687271733133183991.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/171360/1600/1600/90/1687271738983339627.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/171360/1600/1600/90/1687271737820220642.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/171360/1600/1600/90/1687271736973973399.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/171360/1600/1600/90/1687271735543161278.jpg"
     ]
   },
   {
@@ -18053,164 +17751,6 @@
       "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184706/1600/1600/90/1789483063441422.jpg",
       "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184706/1600/1600/90/1789483056923259.jpg",
       "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/184706/1600/1600/90/1789483058524285.jpg"
-    ]
-  },
-  {
-    "id": "188911",
-    "slug": "dallas-house",
-    "status": "pronto",
-    "categoriasOrigem": [
-      "venda"
-    ],
-    "titulo": "APARTAMENTO 2 DORMITÓRIOS SENDO 1 SUÍTE E 1 VAGA NO MORRETES",
-    "referencia": "IMB302",
-    "bairro": "Morretes",
-    "cidade": "Itapema",
-    "uf": "SC",
-    "preco": 980000,
-    "precoTexto": "R$ 980.000,00",
-    "descricao": "Dallas House, moderno e funcional com ambientes integrados e excelente aproveitamento dos espaços\n\nLocalizado na rua 410, no bairro Morretes em Itapema - SC\n\nEmpreendimento:\n\r\n- 1 Única Torre\n\r\n- Fachada em estilo contemporâneo\n\r\n- Hall de entrada decorado\n\r\n- 2 Elevadores modernos\n\r\n- Portaria e Portões eletrônicos\n\r\n- Medidores de água, luz e gás individuais\n\r\n- Bicicletário\n\r\n- Box de praias individuais\n\nApartamento:\n\r\n- 2 dormitórios sendo 1 suíte\n\r\n- Living integrado\n\r\n- Sacada com churrasqueira a carvão\n\r\n- 1 banheiro social\n\r\n- Pisos em porcelanato\n\r\n- Acabamento em gesso\n\r\n- Infraestrutura para ar condicionado\n\r\n- 1 vaga de garagem privativa\n\r\n- 69,41m de Área privativas\n\nEmpreendimento com 540 metros quadrados de Área de Lazer composto por:\n\r\n- Piscina Adulto e Infantil \n\r\n- 2 Salões de festas\n\r\n- Espaço Fitness/ Academia\n\r\n- Espaço Kids\n\r\n- Playground\n\r\n- Sala de Jogos\n\nINCORPORAÇÃO: 67136",
-    "observacao": null,
-    "suites": 1,
-    "dormitorios": 1,
-    "banheiros": 2,
-    "vagas": 2,
-    "areaPrivativa": 69,
-    "detalhes": [
-      {
-        "nome": "Suítes",
-        "valor": "1"
-      },
-      {
-        "nome": "Dormitórios",
-        "valor": "1"
-      },
-      {
-        "nome": "Total de Banheiros",
-        "valor": "2"
-      },
-      {
-        "nome": "Living",
-        "valor": null
-      },
-      {
-        "nome": "Cozinha",
-        "valor": null
-      },
-      {
-        "nome": "Sala de Estar",
-        "valor": null
-      },
-      {
-        "nome": "Área de Serviço",
-        "valor": null
-      },
-      {
-        "nome": "Energia",
-        "valor": "220"
-      },
-      {
-        "nome": "Churrasqueira",
-        "valor": null
-      },
-      {
-        "nome": "Total de garagens",
-        "valor": "2"
-      },
-      {
-        "nome": "Gás individual",
-        "valor": null
-      },
-      {
-        "nome": "Hidrômetro individual",
-        "valor": null
-      },
-      {
-        "nome": "Infraestrutura p/ ar condicionado",
-        "valor": null
-      },
-      {
-        "nome": "Piso porcelanato",
-        "valor": null
-      },
-      {
-        "nome": "Acabamento em gesso",
-        "valor": null
-      },
-      {
-        "nome": "Área Útil (Privativa) (m²)",
-        "valor": "69"
-      },
-      {
-        "nome": "Área Total (m²)",
-        "valor": "81,5"
-      },
-      {
-        "nome": "Apartamento de",
-        "valor": "Frente"
-      },
-      {
-        "nome": "Tipo de Construção",
-        "valor": "Alvenaria"
-      },
-      {
-        "nome": "Rua pavimentada",
-        "valor": null
-      },
-      {
-        "nome": "N. da Incorporação",
-        "valor": "67136"
-      }
-    ],
-    "lazer": [
-      "Piscina Infantil",
-      "Piscina",
-      "Churrasqueira",
-      "Espaço Gourmet",
-      "Salão de festas: 1",
-      "Academia",
-      "Sala de Jogos",
-      "Espaço Kids",
-      "Playground",
-      "Mesa de sinuca",
-      "Área para Banhista",
-      "Elevador: 2",
-      "Bicicletário",
-      "Porteiro eletrônico",
-      "Sensores de presença nas áreas comuns"
-    ],
-    "outros": {},
-    "lat": -27.1159438379,
-    "lng": -48.6153202057,
-    "cep": "88220-000",
-    "fotosOrigem": [
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/179817/1600/1600/90/1741963214470440601.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/179817/1600/1600/90/1741963214352784747.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/179817/1600/1600/90/1741963214600390037.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/179817/1600/1600/90/174196321595515432.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/179817/1600/1600/90/1741963215913304897.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/179817/1600/1600/90/1741963215724033262.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/179817/1600/1600/90/1741963215315722192.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/179817/1600/1600/90/1741963215947753734.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/179817/1600/1600/90/1741963216478993010.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/179817/1600/1600/90/1741963385123776859.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/179817/1600/1600/90/174196336890102426.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/179817/1600/1600/90/1741963446187611303.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/179817/1600/1600/90/1741963427620599295.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/179817/1600/1600/90/174196343291222793.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/179817/1600/1600/90/1741963388239556628.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/179817/1600/1600/90/1741963412851101005.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/179817/1600/1600/90/1741963485924988660.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/179817/1600/1600/90/1741963475187134514.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/179817/1600/1600/90/1741963467413527346.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/179817/1600/1600/90/1741963460206301693.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/179817/1600/1600/90/1741963494790293889.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/179817/1600/1600/90/1741963513480072045.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/179817/1600/1600/90/1741963509368712506.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/179817/1600/1600/90/1741963447336929248.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/179817/1600/1600/90/1741963530734710654.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/179817/1600/1600/90/1741963546373057111.jpg",
-      "https://www.buscaimoveisbrasil.com.br/websites/miniatura/yankeesitapema/1/179817/1600/1600/90/1741963539686032628.jpg"
     ]
   },
   {
