@@ -7,7 +7,7 @@ const CSP = [
   "default-src 'self'",
   "script-src 'self' 'unsafe-inline'",
   "style-src 'self' 'unsafe-inline'",
-  "img-src 'self' data: https://www.buscaimoveisbrasil.com.br",
+  "img-src 'self' data: https://www.buscaimoveisbrasil.com.br https://pfcvtaxeseeldyzknjex.supabase.co",
   "font-src 'self'",
   "connect-src 'self'",
   "frame-src https://maps.google.com https://www.google.com",

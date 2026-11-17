@@ -12,7 +12,7 @@ export const porStatus = (s: Status) => imoveis.filter((i) => i.status === s);
 export function destaques(s: Status, n = 6) {
   return porStatus(s)
     .slice()
-    .sort((a, b) => b.fotosOrigem.length * 1e7 + (b.preco ?? 0) - (a.fotosOrigem.length * 1e7 + (a.preco ?? 0)))
+    .sort((a, b) => Number(!!b.destaque) - Number(!!a.destaque) || b.fotosOrigem.length * 1e7 + (b.preco ?? 0) - (a.fotosOrigem.length * 1e7 + (a.preco ?? 0)))
     .slice(0, n);
 }
 

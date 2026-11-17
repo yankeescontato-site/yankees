@@ -1,6 +1,7 @@
-# Busca os imóveis no site da OAWEB a cada 3 horas. Se algo mudou, salva o data/imoveis.json
+# Busca os artigos do blog no site da OAWEB a cada 3 horas. Se algo mudou, salva o data/artigos.json
 # no repositório e a Vercel publica o site de novo sozinha.
-name: Importar imóveis da OAWEB
+# Os imóveis NÃO vêm mais daqui: saem do Lapel (scripts/importar-lapel.mjs, no prebuild).
+name: Importar blog da OAWEB
 
 on:
   schedule:
@@ -24,23 +25,18 @@ jobs:
       - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4
         with:
           node-version: 22
-      - name: Importar
-        env:
-          # Configure em Settings > Variables quando o domínio for para o site novo.
-          OAWEB_URL: ${{ vars.OAWEB_URL }}
-        run: node scripts/importar-oaweb.mjs
       - name: Importar blog
         env:
           OAWEB_URL: ${{ vars.OAWEB_URL }}
         run: node scripts/importar-blog.mjs
       - name: Salvar se mudou
         run: |
-          if git diff --quiet -- data/imoveis.json data/artigos.json; then
-            echo "Nenhuma mudança nos imóveis."
+          if git diff --quiet -- data/artigos.json; then
+            echo "Nenhuma mudança no blog."
             exit 0
           fi
           git config user.name "importador-imoveis"
           git config user.email "actions@users.noreply.github.com"
-          git add data/imoveis.json data/artigos.json
-          git commit -m "Atualiza imóveis e blog da OAWEB"
+          git add data/artigos.json
+          git commit -m "Atualiza blog da OAWEB"
           git push

@@ -22,6 +22,8 @@ export type Imovel = {
   lat: number | null;
   lng: number | null;
   fotosOrigem: string[];
+  /** Marcado como destaque no Lapel. */
+  destaque?: boolean;
 };
 
 /** Versão leve para listagens no navegador (sem descrição e com só a capa). */
@@ -52,8 +54,9 @@ export const CELULAR = "(47) 99773-8377";
 export const EMAIL = "yankeescontato@gmail.com";
 export const ENDERECO = "Rua 204, nº 35, sala 2001, Edf. Ciprianos, Meia Praia, Itapema/SC";
 
-/** As fotos ficam na OAWEB por enquanto; o tamanho vem na própria URL. */
+/** Fotos da OAWEB: o tamanho vem na URL. Fotos do Lapel: grande (1600) ou miniatura (640). */
 export function foto(url: string, tamanho = 1600) {
+  if (url.endsWith("-1600.webp")) return tamanho <= 800 ? url.replace(/-1600\.webp$/, "-640.webp") : url;
   return url.replace(/\/1600\/1600\//, `/${tamanho}/${tamanho}/`);
 }
 
