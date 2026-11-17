@@ -54,7 +54,8 @@ export const CELULAR = "(47) 99773-8377";
 export const EMAIL = "yankeescontato@gmail.com";
 export const ENDERECO = "Rua 204, nº 35, sala 2001, Edf. Ciprianos, Meia Praia, Itapema/SC";
 
-/** Fotos da OAWEB: o tamanho vem na URL. Fotos do Lapel: grande (1600) ou miniatura (640). */
+/** Fotos da OAWEB: o tamanho vem na URL. Fotos do Lapel: grande (1600) ou miniatura (640).
+ * Cartões e listas usam 640: as fotos saem do Supabase, e o tráfego grátis é de 5 GB/mês. */
 export function foto(url: string, tamanho = 1600) {
   if (url.endsWith("-1600.webp")) return tamanho <= 800 ? url.replace(/-1600\.webp$/, "-640.webp") : url;
   return url.replace(/\/1600\/1600\//, `/${tamanho}/${tamanho}/`);

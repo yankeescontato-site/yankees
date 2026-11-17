@@ -24,7 +24,7 @@ export default function CardFotos({ fotos, alt, prioridade }: { fotos: string[];
     <>
       {fotos.map((f, n) =>
         vistas.has(n) ? (
-          <img key={f} src={foto(f, 1000)} alt={n === 0 ? alt : ""} className={n === atual ? "atual" : undefined}
+          <img key={f} src={foto(f, 640)} alt={n === 0 ? alt : ""} className={n === atual ? "atual" : undefined}
             loading={n === 0 && prioridade ? "eager" : "lazy"} />
         ) : null
       )}

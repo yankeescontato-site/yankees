@@ -79,7 +79,7 @@ export default function Home() {
         <div className="categorias rv">
         {(Object.keys(STATUS) as Status[]).map((s) => (
           <Link key={s} href={STATUS[s].rota} className="categoria">
-            {capas[s] && <img src={foto(capas[s], 1000)} alt="" loading="lazy" />}
+            {capas[s] && <img src={foto(capas[s], 640)} alt="" loading="lazy" />}
             <div>
               <small>{porStatus(s).length} imóveis</small>
               <h3>{STATUS[s].plural.split(" ")[0]} <b>{STATUS[s].plural.split(" ").slice(1).join(" ")}</b></h3>
