@@ -3,7 +3,7 @@ import Link from "next/link";
 import { notFound, permanentRedirect } from "next/navigation";
 import ArtigoCard from "@/components/ArtigoCard";
 import { Seta, Whats } from "@/components/Icones";
-import { artigos, buscarArtigo, recentes, urlArtigo } from "@/lib/artigos";
+import { artigos, buscarArtigo, dataArtigo, recentes, urlArtigo } from "@/lib/artigos";
 import { linkWhats } from "@/lib/imoveis";
 
 type Props = { params: Promise<{ id: string; slug?: string[] }> };
@@ -29,12 +29,15 @@ export default async function PaginaArtigo({ params }: Props) {
   if (!a) notFound();
   if (slug?.[0] !== a.slug) permanentRedirect(urlArtigo(a));
 
+  const meta = [a.categoria, dataArtigo(a.data)].filter(Boolean).join(" · ");
   const ld = {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
     headline: a.titulo,
     description: a.resumo,
     url: `https://www.yankeesitapema.com.br${urlArtigo(a)}`,
+    ...(a.data ? { datePublished: a.data } : {}),
+    ...(a.categoria ? { articleSection: a.categoria } : {}),
     publisher: { "@type": "RealEstateAgent", name: "Yankees Negócios Imobiliários" },
   };
 
@@ -45,11 +48,13 @@ export default async function PaginaArtigo({ params }: Props) {
         <div className="wrap">
           <Link href="/blog" className="eyebrow sobe">Blog Yankees</Link>
           <h1 className="display sobe d1">{a.titulo}</h1>
+          {a.subtitulo && <p className="artigo-apoio sobe d2">{a.subtitulo}</p>}
+          {meta && <span className="artigo-meta sobe d2">{meta}</span>}
         </div>
       </section>
       <section className="secao" style={{ paddingTop: 40 }}>
         <div className="wrap artigo-grid">
-          {/* corpo saneado no importador (scripts/importar-blog.mjs): só tags de texto e links */}
+          {/* corpo saneado no feed do Lapel (lib/blog/sanitize no CRM): só tags de texto e links */}
           <article className="artigo-corpo" dangerouslySetInnerHTML={{ __html: a.corpo }} />
           <aside className="im-lado artigo-lado">
             <span className="tag">Yankees Negócios Imobiliários</span>

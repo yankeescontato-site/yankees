@@ -644,3 +644,7 @@ button, input, select { font: inherit; color: inherit; }
 .aviso-passos strong { display: block; font-size: 15px; font-weight: 600; color: var(--texto); }
 .aviso-passos small { display: block; font-size: 14px; color: var(--texto-2); margin-top: 2px; }
 .aviso-obrigado .aviso-acoes { margin-top: 28px; }
+.artigo-card .artigo-meta { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.artigo-meta { font-size: 13px; font-weight: 500; letter-spacing: 0.02em; color: var(--texto-2); }
+.topo-artigo .artigo-meta { display: block; margin-top: 18px; }
+.artigo-apoio { margin-top: 16px; max-width: 720px; font-size: 18px; line-height: 1.5; color: var(--texto-2); }
